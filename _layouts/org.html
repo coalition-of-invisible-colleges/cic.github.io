@@ -1,0 +1,19 @@
+---
+layout: default
+---
+<article class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title | escape }}</h1>
+  </header>
+
+  <div class="post-content">
+     {% for my_page in site.pages %}
+          {% if my_page.org == page.org unless page.title %}
+            {{ my_page.content }}
+          {% endif %}
+        {% endfor %}
+    {{ content }}
+  </div>
+
+</article>
