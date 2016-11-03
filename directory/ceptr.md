@@ -1,7 +1,8 @@
 ---
-layout: page
+layout: org
 title: The MetaCurrency Project (Ceptr)
 permalink: /directory/ceptr/
+org: ceptr
 ---
 
 # Community Hubs & Headquarters
