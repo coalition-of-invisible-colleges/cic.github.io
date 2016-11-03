@@ -11,4 +11,4 @@ Here is a current list of confirmed CIC member colleges:
 
 * [The MetaCurrency Project (Ceptr)](/directory/ceptr/)
 * [The T.E.A.M. (Transliminal Earth Alliance Metanarrative)](/directory/TEAM/)
-* Fringechan.org
+* [Fringechan.org](http://www.fringechan.org/)
