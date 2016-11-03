@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ceptr
+title: The MetaCurrency Project (Ceptr)
 permalink: /directory/ceptr/
 ---
 
@@ -17,8 +17,6 @@ permalink: /directory/ceptr/
 - [Beyond Blockchain: Simple
      Scalable Cryptocurrencies](https://medium.com/metacurrency-project/beyond-blockchain-simple-scalable-cryptocurrencies-1eb7aebac6ae#.q7tqxi61o) by Arthur Brock
 - [Cryptocurrencies are Dead](https://medium.com/metacurrency-project/cryptocurrencies-are-dead-d4223154d783#.gj915zibo) by Arthur Brock
-
- 
 
 # Introductory viewing
 
@@ -65,7 +63,6 @@ permalink: /directory/ceptr/
     - [Protocols for inclusion](https://docs.google.com/document/d/1bB3HAwm1LPYJV9K0VCilJ_Xjob7rA_8js2usfODH6GE/edit)
     - [Circles of Engagement](https://docs.google.com/spreadsheets/d/1OXTwI6ANCNiq7AhBuFoj7dxLyGOYyEdz5_P2l5QNzmI/edit#gid=0) document
     - Trello: [https://trello.com/metacurrency](https://trello.com/metacurrency)
-
 - Wealth
      Stewardship—subproject—they might buy land for a campus—Village Labs
 - Metacurrency Philosophy
