@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Ceptr
-permalink: /ceptr/
+permalink: /directory/ceptr/
 ---
 
 # Community Hubs & Headquarters
