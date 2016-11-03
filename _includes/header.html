@@ -16,7 +16,7 @@
       <div class="trigger">
         {% for my_page in site.pages %}
           {% if my_page.menu %}
-          [{{ my_page.title | escape }}]({{ my_page.url | relative_url }}
+          <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
           {% endif %}
         {% endfor %}
       </div>
