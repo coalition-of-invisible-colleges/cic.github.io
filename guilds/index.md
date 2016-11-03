@@ -11,6 +11,6 @@ Here is a current list of guilds.
 
 {% for my_page in site.pages %}
   {% if my_page.guild %}
-          <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
+          [{{ my_page.title | escape }}]({{ my_page.url | relative_url }})
   {% endif %}
 {% endfor %}
