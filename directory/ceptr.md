@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Ceptr
-permalink: /ceptr.html
+permalink: /ceptr/
 ---
 
 # Community Hubs & Headquarters
@@ -20,7 +20,7 @@ permalink: /ceptr.html
 
  
 
-Introductory viewing
+# Introductory viewing
 
 - Watch first:
      [Ceptr MIT webinar](http://ceptr.org/2015/09/24/mitkit-ceptr-webinar/) (1 hour)
@@ -30,16 +30,12 @@ Introductory viewing
      Ceptr](https://www.youtube.com/watch?v=2ppk_mJxckg&app=desktop) (1
      hour 15 minutes)
 
- 
-
-Contact
+# Contact
 
 - Eric (main coder): [@zippy314](http://telegram.me/zippy314) on Telegram, or eric@harris-braun.com
 - Arthur: artbrock@geekgene.com
 
- 
-
-Events
+# Events
 
 - [Weekly meetings](http://ceptr.org/hangout) Wednesdays at 9:30am PST—for those who have
      accountabilities in the spreadsheet
@@ -48,9 +44,7 @@ Events
 - See Hackpad below for meeting
      notes
 
- 
-
-Collection of All Other Links
+# Collection of All Other Links
 
 - Arthur Brock's website: [http://artbrock.com/](http://artbrock.com/)
 - Blog: [https://medium.com/metacurrency-project](https://medium.com/metacurrency-project)
@@ -84,9 +78,7 @@ Collection of All Other Links
 - Google Drive folder
 - [Old Ceptr Wiki](http://ceptr.wagn.org/)
 
- 
-
-Demos
+# Demos
 
 - [Working JavaScript Ceptr IDE](http://zippy.github.io/ceptr/dev/te.html) (semantic tree browser and
      editor)
@@ -94,159 +86,10 @@ Demos
      console) when you run an instance of Ceptr
 - Semantic tree viewer in html
 
- 
-
-Stuff for coders
+# Stuff for coders
 
 - [Ceptr Doxy API documentation](http://zippy.github.io/ceptr/) (generated from code by
      Doxy)
 - [Ceptr GitHub issues tracker](https://github.com/zippy/ceptr/issues) (on GitHub)
 - [Ceptr Waffle issues tracker](https://waffle.io/zippy/ceptr) (kanban interface to GitHub
      issues tracker)
-
- 
-
-Potential Ceptr programmers:
-
-- Noel memearchivingbot
-- Karl Marrett (December)
-- Josh Harris? (Dark_Mirrors)
-- Jonah Dempcy
-
- 
-
-Killer Ceptr apps
-
-- Library
-    - BitTorrent hubless search
-    - Decentralized cloud backup
-      with friends (syncs with local drive structure but allows you to organize
-      files in the semantic library)
-    - Curated public
-      library—collations of curated personal libraries
-    - Meme indexer and sorter for
-      maximum meme evolvement
-    - Search prioritized by your
-      friend's favorite texts/authors
-
-- Pokéworld
-    - Objective Pokémon capture
-      (wordspace domain name battles)
-    - Connects with local myths
-    - Mines real currencies and
-      backs them with good stories
-    - Allows renegotiation of land
-      ownership, eventually (presence/habitation = ownership)
-
-- Free secure proxy
-
- 
-
-Setting up a local version of the live tree editor:
-
-You
-can also make this live on your own machine by setting up a webserver on your
-machine and serving up the /web directory of the source code.
-
-here's
-my own ceptr.conf file from my /etc/apache2/sites-available directory: 
-
-&lt;VirtualHost
-*:8080&gt;
-
- 
-
-    ServerAdmin webmaster@localhost
-
-    DocumentRoot
-/home/eric/code/metacurrency/ceptr/web
-
- 
-
-  &lt;Directory
-/home/eric/code/metacurrency/ceptr/web&gt;
-
-             Options Indexes FollowSymLinks
-Includes ExecCGI
-
-             AllowOverride All
-
-             Require all granted
-
- &lt;/Directory&gt;
-
- 
-
-    ErrorLog ${APACHE_LOG_DIR}/error.log
-
-    CustomLog ${APACHE_LOG_DIR}/access.log
-combined
-
-&lt;/VirtualHost&gt;
-(edited)
-
- 
-
-Then
-the url is just [http://localhost:8080/te.html](http://localhost:8080/te.html)
-
- 
-
-(If
-you don't have other things serving out of port 80 just change the virtual host
-directive and you can drop the port specifier in ther url)
-
- 
-
-Compile Ceptr on Linux on Windows
-
-1. Install Windows Subsystem for
-     Linux to get a native Linux distro on Windows
-    1. Open the Start
-      menu
-    2. Type "turn windows
-      features on and off"
-    3. Open it
-    4. Check "Windows
-      Subsystem for Linux"
-    5. Press OK.
-    6. Restart your computer.
-    7. Open the Start menu and type
-      "cmd" and press Enter
-    8. Type "bash" and
-      press Enter
-    9. It will download and install
-      Ubuntu
-    10. Open bash (Win-R and type
-      "bash")
-    11. You have a fully-functional
-      (if lightweight) Ubuntu distribution of Linux!
-
-2. Clone the Ceptr repository
-    1. Open bash (Win-R
-      and type "bash" and hit Enter)
-    2. Run sudo
-      apt-get install git and type your password when prompted. When prompted, hit 'y' to
-      confirm download.
-    3. sudo
-      apt-get install make and repeat above steps, sans password-entry (sudo remembers your
-      password for superuser temporarily)
-    4. sudo
-      apt-get install gcc
-    5. Navigate to the directory
-      where you want your synchronized ceptr folder to reside. All the code.
-      (your home folder at ~/ aka /home/yourusername/ is a good place; another
-      good place is /usr/src/)
-    6. git clone the ceptr
-      repository
-    7. make all in the ceptr
-      directory
-    8. run ./bin/ceptr
-
- 
-
- 
-
- 
-
- 
