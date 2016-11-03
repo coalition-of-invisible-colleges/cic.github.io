@@ -4,13 +4,13 @@ title: Ceptr
 permalink: /ceptr.html
 ---
 
-== Community Hubs & Headquarters ==
+# Community Hubs & Headquarters
 
 * [The MetaCurrency Project](http://metacurrency.org)
-- [Ceptr](http://ceptr.org)
-- Slack server: ceptr.slack.org (ask for an invite)
+* [Ceptr](http://ceptr.org)
+* Slack server: ceptr.slack.org (ask for an invite)
 
-== Introductory Reading ==
+# Introductory Reading
 
 - Main
      document: [Ceptr Revelation](https://docs.google.com/document/d/1Line362Wm0zMOZcEZMqPYfHqNS4XIVyVsP7SS_4jE2o/edit#heading=h.ee3qi5eixr98)

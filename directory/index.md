@@ -8,6 +8,6 @@ The directory is the heart of the Coalition of Invisible Colleges. By indexing t
 
 Here is a current list of confirmed CIC member colleges:
 
-* The Metacurrency Project
+* [The Metacurrency Project (Ceptr)](/ceptr/)
 * The T.E.A.M. (Transliminal Earth Alliance Metanarrative)
 * Fringechan.org
