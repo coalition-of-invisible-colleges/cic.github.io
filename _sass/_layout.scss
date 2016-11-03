@@ -97,6 +97,16 @@
   padding: $spacing-unit 0;
 }
 
+.icon--telegram {
+  height: 16px;
+  width: 16px;
+  display: inline-block;
+}
+
+.channel {
+  padding: 5px;
+}
+
 .footer-heading {
   font-size: 18px;
   margin-bottom: $spacing-unit / 2;
