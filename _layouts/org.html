@@ -10,9 +10,9 @@ layout: default
   <div class="post-content">
      {% for my_page in site.pages %}
           {% if my_page.org == page.org %}
-            {% unless page.title %}
+            {% unless my_page.title %}
               {{ my_page.content }}
-            {% endunless %}}}
+            {% endunless %}
           {% endif %}
         {% endfor %}
     {{ content }}
