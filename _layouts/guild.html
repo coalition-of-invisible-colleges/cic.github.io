@@ -10,7 +10,7 @@ layout: default
   <div class="post-content">
      {% for my_page in site.pages %}
           {% if my_page.guild == page.guild %}
-            {% unless page.title %}
+            {% unless my_page.title %}
               {{ my_page.content }}
             {% endunless %}
           {% endif %}
