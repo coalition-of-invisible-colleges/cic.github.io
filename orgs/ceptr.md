@@ -1,7 +1,7 @@
 ---
 layout: org
 title: The MetaCurrency Project (Ceptr)
-permalink: /directory/ceptr/
+permalink: /orgs/ceptr/
 org: ceptr
 ---
 

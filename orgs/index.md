@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Directory
-permalink: /directory/
+permalink: /orgs/
 menu: true
 ---
 
@@ -9,6 +9,6 @@ The directory is the heart of the Coalition of Invisible Colleges. By indexing t
 
 Here is a current list of confirmed CIC member colleges:
 
-* [The MetaCurrency Project (Ceptr)](/directory/ceptr/)
-* [The T.E.A.M. (Transliminal Earth Alliance Metanarrative)](/directory/TEAM/)
+* [The MetaCurrency Project (Ceptr)](/orgs/ceptr/)
+* [The T.E.A.M. (Transliminal Earth Alliance Metanarrative)](/orgs/TEAM/)
 * [Fringechan.org](http://www.fringechan.org/)
