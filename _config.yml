@@ -23,8 +23,7 @@ description: > # this means to ignore newlines until "baseurl:"
   to this website, please contact us via Telegram at http://telegram.me/TEAMlobby.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+github_username:  cic.github.io
 
 # Build settings
 markdown: kramdown
