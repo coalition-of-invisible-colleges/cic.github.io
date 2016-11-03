@@ -8,6 +8,7 @@ layout: default
   </header>
 
   <div class="post-content">
+     {{ content }}
      {% for my_page in site.pages %}
           {% if my_page.guild == page.guild %}
             {% unless my_page.title %}
@@ -15,7 +16,6 @@ layout: default
             {% endunless %}
           {% endif %}
         {% endfor %}
-    {{ content }}
   </div>
 
 </article>
