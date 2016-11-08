@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Directory
-permalink: /orgs/
+permalink: /colleges/
 menu: true
 ---
 
