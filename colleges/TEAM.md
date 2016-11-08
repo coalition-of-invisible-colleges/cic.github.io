@@ -2,7 +2,7 @@
 layout: college
 title: The Transliminal Earth Alliance Metanarrative (T.E.A.M.)
 permalink: /colleges/TEAM/
-org: TEAM
+college: TEAM
 ---
 
 The Transliminal Earth Alliance Metanarrative (T.E.A.M.) is a transcendent, emergent distributed activism narrative paradigm of which we are all a part. The TEAM cluster listed here is a specific community which grew out of [/r/sorceryofthespectacle](http://reddit.com/r/sorceryofthespectacle) on reddit.
