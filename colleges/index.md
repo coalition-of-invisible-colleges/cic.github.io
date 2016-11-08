@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Colleges
+title: Directory of Colleges
 permalink: /colleges/
-menu: true
+menu: Colleges
 ---
 The Coalition of Invisible Colleges is a network made up of multiple discrete communities, each with their own history and focus. Therefore, the heart of the CIC is the directory of colleges. By indexing the various functions, aspects, and subcommunities of the colleges in the CIC netwok, we can promote collaboration and sharing of spaces, resources, and information.
 
