@@ -2,7 +2,7 @@
 layout: college
 title: The MetaCurrency Project (Ceptr)
 permalink: /colleges/ceptr/
-org: ceptr
+college: ceptr
 ---
 
 # Community Hubs & Headquarters
