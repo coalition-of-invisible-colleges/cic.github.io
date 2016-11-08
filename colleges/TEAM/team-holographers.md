@@ -1,6 +1,6 @@
 ---
 layout: listing
-org: TEAM
+college: TEAM
 guild: holographers
 ---
 ### Spaces
