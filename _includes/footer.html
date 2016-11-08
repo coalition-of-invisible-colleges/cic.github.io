@@ -5,11 +5,6 @@
     <h2 class="footer-heading">{{ site.title | escape }}</h2>
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1">
-        <ul class="contact-list">
-            {% if site.email %}
-            <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-            {% endif %}
-        </ul>
         <ul class="social-media-list">
           {% if site.github_username %}
           <li>
@@ -34,7 +29,9 @@
           {% endif %}
         </ul>
         <ul class="contact-list">
-          <!--todo: add a pen icon here-->
+          {% if site.email %}
+            <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+          {% endif %}
           <li>
             {% assign edit_url = 'coalition-of-invisible-colleges/cic.github.io/edit/master/' | append: page.path %}
             {% include icon-github.html username=edit_url title='Edit this page' %}
