@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Directory
+title: Colleges
 permalink: /colleges/
 menu: true
 ---
