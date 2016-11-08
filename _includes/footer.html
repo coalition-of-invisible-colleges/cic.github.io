@@ -26,7 +26,6 @@
             {% include icon-twitter.html username=site.twitter_username %}
           </li>
           {% endif %}
-        </ul>
          {% if site.github_username %}
           <li>
             {% include icon-github.html username=site.github_username %}
@@ -36,6 +35,7 @@
             {% assign edit_url = 'coalition-of-invisible-colleges/cic.github.io/edit/master/' | append: page.path %}
             {% include icon-github.html username=edit_url title='Edit this page' %}
           </li>
+        </ul>
       </div>
 
       <div class="footer-col footer-col-2">
