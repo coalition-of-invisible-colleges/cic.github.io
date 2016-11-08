@@ -1,9 +1,9 @@
 ---
 layout: default
 ---
-<% if page.guild %>
-  {{ page.guild }} Guild
-<% elsif page.college %>
-  {{ page.college }}
+<% if page.college %>
+  {{ include.college }}
+<% elsif page.guild %>
+  {{ include.guild }} Guild
 <% endif %>
 {{ content }}
