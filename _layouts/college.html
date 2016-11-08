@@ -10,7 +10,7 @@ layout: default
   <div class="post-content">
      {{ content }}
      {% for my_page in site.pages %}
-          {% if my_page.org == page.org %}
+          {% if my_page.college == page.college %}
             {% if my_page.layout == 'listing' %}
               {{ my_page.content | markdownify }}
             {% endif %}
