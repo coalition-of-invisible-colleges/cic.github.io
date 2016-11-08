@@ -11,6 +11,7 @@ layout: default
      {% for my_page in site.pages %}
           {% if my_page.org == page.org %}
             {% unless my_page.title %}
+              <h2>{{ my_page.guild }}</h2>
               {{ my_page.content }}
             {% endunless %}
           {% endif %}
