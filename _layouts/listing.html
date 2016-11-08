@@ -2,11 +2,6 @@
 layout: default
 ---
 {{ page.college }}
-
-Some text before the link
-
-<div style="">Link:<a href="">Edit this</a></div>
-
-Some text after the link
-
+{% assign edit_url = 'coalition-of-invisible-colleges/cic.github.io/edit/master/' | append: page.path %}
+Link:<a href="{{ edit_url }}">Edit this</a>
 {{ content }
