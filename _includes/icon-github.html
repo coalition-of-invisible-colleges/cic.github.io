@@ -1,6 +1,1 @@
-<% if include.title %>
-  <% var title = include.title %>
-<% else %>
-  <% var title = include.username %>
-<% endif %>
-<a href="https://github.com/{{ include.username }}"><span class="icon icon--github">{% include icon-github.svg %}</span><span class="username">{{ title }}</span></a>
+<a href="https://github.com/{{ include.username }}"><span class="icon icon--github">{% include icon-github.svg %}</span><span class="username">{{ include.title | default: include.username }}</span></a>
