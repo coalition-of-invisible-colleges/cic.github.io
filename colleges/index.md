@@ -4,8 +4,7 @@ title: Colleges
 permalink: /colleges/
 menu: true
 ---
-
-The directory is the heart of the Coalition of Invisible Colleges. By indexing the various functions, aspects, and subcommunities of the various communities connected in the CIC network, we can promote collaboration and sharing of spaces, resources, and information. This is the base Jekyll theme.
+The Coalition of Invisible Colleges is a network made up of multiple discrete communities, each with their own history and focus. Therefore, the heart of the CIC is the directory of colleges. By indexing the various functions, aspects, and subcommunities of the colleges in the CIC netwok, we can promote collaboration and sharing of spaces, resources, and information.
 
 Here is a current list of confirmed CIC member colleges:
 
