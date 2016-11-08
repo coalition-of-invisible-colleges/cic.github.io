@@ -8,15 +8,15 @@ layout: default
   </header>
 
   <div class="post-content">
+     {{ content }}
      {% for my_page in site.pages %}
           {% if my_page.org == page.org %}
-            {% unless my_page.title %}
+            {% if my_page.layout == 'orgchunk' %}
               <h2>{{ my_page.guild }}</h2>
-              {{ my_page.content }}
-            {% endunless %}
+              {{ my_page.content | markdownify }}
+            {% endif %}
           {% endif %}
         {% endfor %}
-    {{ content }}
   </div>
 
 </article>
