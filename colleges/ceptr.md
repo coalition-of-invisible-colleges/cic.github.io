@@ -1,7 +1,7 @@
 ---
-layout: org
+layout: college
 title: The MetaCurrency Project (Ceptr)
-permalink: /orgs/ceptr/
+permalink: /colleges/ceptr/
 org: ceptr
 ---
 
