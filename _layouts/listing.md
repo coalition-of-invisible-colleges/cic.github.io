@@ -2,8 +2,8 @@
 layout: default
 ---
 <% if page.college %>
-  {{ include.college }}
+  {{ layout.guild }}
 <% elsif page.guild %>
-  {{ include.guild }} Guild
+  {{ layout.college }} Guild
 <% endif %>
 {{ content }}
