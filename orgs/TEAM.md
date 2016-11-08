@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: college
 title: The Transliminal Earth Alliance Metanarrative (T.E.A.M.)
-permalink: /orgs/TEAM/
+permalink: /colleges/TEAM/
 org: TEAM
 ---
 
