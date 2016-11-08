@@ -36,7 +36,8 @@
         <ul class="contact-list">
           <!--todo: add a pen icon here-->
           <li>
-            {% include icon-github.html username=('coalition-of-invisible-colleges/cic.github.io/edit' | append: page.url) %}
+            {% assign edit_url = 'coalition-of-invisible-colleges/cic.github.io/edit' | append: page.url %}
+            {% include icon-github.html username=edit_url title='Edit this page' %}
           </li>
         </ul>
       </div>
