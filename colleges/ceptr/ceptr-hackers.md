@@ -1,5 +1,5 @@
 ---
-layout: chunk
+layout: listing
 org: ceptr
 guild: hackers
 ---
