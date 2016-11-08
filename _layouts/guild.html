@@ -12,7 +12,7 @@ layout: default
      {% for my_page in site.pages %}
           {% if my_page.guild == page.guild %}
             {% if my_page.layout == 'orgchunk' %}
-              {{ my_page.content }}
+              {{ my_page.content | markdownify }}
             {% endif %}
           {% endif %}
         {% endfor %}
