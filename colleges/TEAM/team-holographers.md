@@ -1,5 +1,5 @@
 ---  
-layout: orgchunk  
+layout: listing  
 org: TEAM  
 guild: holographers  
 ---  
