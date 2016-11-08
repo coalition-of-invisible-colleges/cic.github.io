@@ -1,5 +1,5 @@
 ---
-layout: chunk
+layout: listing
 org: TEAM
 guild: teachers
 ---
