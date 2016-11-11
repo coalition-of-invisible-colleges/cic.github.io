@@ -2,10 +2,8 @@
 layout: listing
 college: TEAM
 guild: holographers
+pointperson: @papersheepdog
 ---
-### People
-Point person: [@papersheepdog](http://telegram.me/papersheepdog) on Telegram
-
 ### Places
 * The **Holographer's Guildhall** is our headquarters on Telegram. Ask [@Ameslari](http://telegram.me/Ameslari) for an invite.
 * The **Holographer's Guildbook** is a shared notebook where we author the Protocols, organize guilds, shared metaprotocols, and otherwise play the [Glass Bead Game](https://en.wikipedia.org/wiki/The_Glass_Bead_Game). Ask [@papersheepdog](http://telegram.me/papersheepdog) for an invite to view and edit the notebook.
