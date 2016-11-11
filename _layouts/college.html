@@ -12,6 +12,7 @@ layout: default
      {% for my_page in site.pages %}
           {% if my_page.college == page.college %}
             {% if my_page.layout == 'listing' %}
+              <h2>{{ my_page.guild }}</h2>
               {{ my_page.content | markdownify }}
             {% endif %}
           {% endif %}
