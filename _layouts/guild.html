@@ -13,6 +13,7 @@ layout: default
           {% if my_page.guild == page.guild %}
             {% if my_page.layout == 'listing' %}
               <h2>{{ my_page.college }}</h2>
+              Point Person: [@{{ my_page.pointperson }}](http://telegram.me/{{ my_page.pointperson }}]
               {{ my_page.content | markdownify }}
             {% endif %}
           {% endif %}
