@@ -12,8 +12,7 @@ layout: default
      {% for my_page in site.pages %}
           {% if my_page.college == page.college %}
             {% if my_page.layout == 'listing' %}
-              {% assign length = my_page.guild | size - 1 %}
-              <h2>{{ my_page.guild | slice: 0, length - 1, | capitalize }}s' Guild</h2>
+              <h2>{{ my_page.guild | capitalize }}' Guild</h2>
               {{ my_page.content | markdownify }}
             {% endif %}
           {% endif %}
