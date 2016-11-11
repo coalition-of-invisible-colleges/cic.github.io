@@ -13,7 +13,7 @@ layout: default
           {% if my_page.guild == page.guild %}
             {% if my_page.layout == 'listing' %}
               <h2>{{ my_page.college }}</h2>
-              Point Person: {% include icon-telegram-user.html user=my_page.pointperson %}
+              Point Person: {% include icon-telegram-user.html username=my_page.pointperson %}
               {{ my_page.content | markdownify }}
             {% endif %}
           {% endif %}
