@@ -1,9 +1,5 @@
 ---
 layout: default
 ---
-<% if page.college %>
-  {{ layout.guild }}
-<% elsif page.guild %>
-  {{ layout.college }} Guild
-<% endif %>
+Point Person: [{{ page.pointperson }}](http://telegram.me/{{ page.pointperson | remove_first: "@" }})
 {{ content }}
