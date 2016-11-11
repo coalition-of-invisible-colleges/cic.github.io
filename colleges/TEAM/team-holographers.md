@@ -2,6 +2,7 @@
 layout: listing
 college: TEAM
 guild: holographers
+pointperson: papersheepdog
 ---
 ### Places
 * The **Holographer's Guildhall** is our headquarters on Telegram. Ask [@Ameslari](http://telegram.me/Ameslari) for an invite.
