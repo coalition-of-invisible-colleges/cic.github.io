@@ -11,6 +11,7 @@ This website is an open-source project, so anyone may contact the CIC admins, re
 Ideally, there would be one point person, per guild, per college.
 
 Duties of a point person:
+
 * The point person keeps their guild listing up-to-date for their college. This means creating and maintaining an index of that guild's various functions, places, projects, people, services, and external resources, in the context of your college.
 * The point person is listed at the top of each guild-college directory listing section (Telegram username), so people can contact you. Visitors to the CIC website may easily contact you to ask about the guild or the guild's directory listing on the website.
 
