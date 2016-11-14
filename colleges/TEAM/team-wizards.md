@@ -13,4 +13,4 @@ pointperson: deicidus
 * Articulating the guilds and their correspondences with the planets, numbers, letters, gods, and various other traditional symbols
 * Magical research
 * Magical teaching—many members of the Wizard's Guild run magical schools
-* Studying the numogram and other correspondence systems or magical diagrams
+* Studying [the numogram](http://ccru.net) and other correspondence systems or magical diagrams
