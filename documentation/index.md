@@ -70,7 +70,7 @@ A college is an entire community, organization, or cluster of people that does n
 7. Commit the file.
 8. Follow the instructions below to add a directory listing to your page, so there will be some content.
 
-### How to add a new listing to the CIC directory
+### How to add a new listing to a college/guild in the directory
 
 A listing is an index of the functions, places, projects, people, services, and external resources for a guild, within the context of a specific college. This system allows each college to organize its self-index into multiple guilds, and for guilds to collaborate and self-organize across colleges. Each listing is stored as an individual file, and each listing file is displayed on both the appropriate Guild and College page in the directory.
 
