@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Documentation Added"
+title:  "Documentation added"
 date:   2016-11-14 02:50:00 -0800
 categories: cic blog
 ---
