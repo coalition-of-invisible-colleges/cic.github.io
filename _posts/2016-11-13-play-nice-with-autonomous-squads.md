@@ -14,6 +14,6 @@ Here's another:
 
 ![spotify engineering culture video diagram screenshot]({{site.url}}/assets/spotify_organization_2.jpg)
 
-And here's the entire sketch drawn in the video:
+And here's the entire sketch drawn in the video (right click and 'Open image in new tab' to zoom in):
 
 ![entire spotify engineering culture part 1 diagram](https://spotifylabscom.files.wordpress.com/2014/03/spotify-engineering-culture-part1.jpeg)
