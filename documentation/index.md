@@ -17,7 +17,7 @@ Duties of a point person:
 
 ### How this site is hosted
 
-This website, coalitionofinvisiblecolleges.org, is hosted on GitHub Pages. Git is a version control system which allows multiple versions of documents to be coordinated, edited by many people, and merged into one final version. GitHub is a public service which hosts git repositories which are publically-accessible. GitHub Pages is a feature of GitHub which can host Jekyll-based websites natively from its servers. Jekyll is a collection of scripts which allow web pages to be written in markdown, and provides a templating interface to run a simple-but-flexible website.
+This website, coalitionofinvisiblecolleges.org, is hosted on GitHub Pages. Git is a version control system which allows multiple versions of documents to be coordinated, edited by many people, and merged into one final version. GitHub is a public service which hosts git repositories which are publically-accessible. GitHub Pages is a feature of GitHub which can host Jekyll-based websites natively from its servers. Jekyll is a collection of scripts which allow web pages to be written in Markdown, and provides a templating interface to run a simple-but-flexible website.
 
 ### How to request access to edit the CIC website
 
@@ -27,6 +27,10 @@ This website, coalitionofinvisiblecolleges.org, is hosted on GitHub Pages. Git i
 4. Tell us your GitHub username.
 5. We will add you to the [coalition-of-invisible-colleges](https://github.com/coalition-of-invisible-colleges) organization entity on GitHub. Anyone in this organization has edit access to this website, known as [cic.github.io](https://github.com/coalition-of-invisible-colleges/cic.github.io) GitHub Pages.
 6. That's it! You can now edit the site.
+
+### How to edit Markdown
+
+Markdown is a very simple markup language rendered from plain text to HTML. Here is a [short cheatsheet](http://commonmark.org/help/) and a [longer reference](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) to editing Markdown text, which is the format used in most CIC pages.
 
 ### How to edit a top-level page
 
@@ -60,7 +64,7 @@ A college is an entire community, organization, or cluster of people that does n
 1. Request edit access to the CIC website (see instructions above).
 2. Go to [https://github.com/coalition-of-invisible-colleges/cic.github.io/tree/master/colleges], the /colleges/ directory.
 3. Follow the instructions just above for 'How to create a new directory on GitHub'. Use the name of your college as the folder name (use a version appropriately shortened to work as a URL), and name the file you create 'index.md'.
-4. Go into one of the other colleges folders, open their index.md, click Edit This File (the pen icon near the 'History' button), and copy the markdown code into your new index.md file, to use as a template.
+4. Go into one of the other colleges folders, open their index.md, click Edit This File (the pen icon near the 'History' button), and copy the Markdown code into your new index.md file, to use as a template.
 5. Edit the header information in the file, between the ---'s, to reflect your college's name.
 6. Write some introductory text for your college.
 7. Commit the file.
@@ -74,9 +78,9 @@ A listing is an index of the functions, places, projects, people, services, and 
 2. Navigate to your [college's folder](https://github.com/coalition-of-invisible-colleges/cic.github.io/tree/master/colleges) on GitHub.
 3. Click the "Create new file" button.
 4. Name your file with the convention 'collegename-guildname.md', with dashes instead of spaces. For example, the Public Relater's Guild of the TEAM file would be named team-public-relaters.md.
-5. Open an existing listing file from yours or another guild, to use as a template. Click the 'Edit this file' button (the pen icon near the History button), copy the markdown text, and paste it into the new file you created.
+5. Open an existing listing file from yours or another guild, to use as a template. Click the 'Edit this file' button (the pen icon near the History button), copy the Markdown text, and paste it into the new file you created.
 6. Edit the header information between the ---'s to reflect your college, guild, and the point person for that guild (their Telegram username, without the @).
-7. Add the listing itself in markdown format! This is the meat of the listing. Figure out the major aspects of your guild, be they people, projects, places to talk, shared documents or publically-accessible services that are ready to go.
+7. Add the listing itself in Markdown format! This is the meat of the listing. Figure out the major aspects of your guild, be they people, projects, places to talk, shared documents or publically-accessible services that are ready to go.
 8. Make your listing look nice with appropriate headings, bulleted lists, and other niceties.
 9. Click Commit to save your changes and create the page.
 10. Navigate to the CIC and check your work! Hit Refresh (F5) on both the Guild and College page where you expect your listing to appear.
