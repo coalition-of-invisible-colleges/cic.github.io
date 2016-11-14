@@ -2,7 +2,7 @@
 layout: post
 title:  "Play nice with autonomous squads"
 date:   2016-11-13 22:55:00 -0800
-categories: cic blog video
+categories: cic blog
 ---
 ![spotify engineering culture video diagram screenshot]({{site.url}}/assets/spotify_organization.jpg)
 
