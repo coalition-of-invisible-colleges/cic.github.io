@@ -46,7 +46,7 @@ Most of the content on the website is not stored in top-level pages: the most im
 2. Find the guild listing within the folder that you want to edit. Listings are titled with the convention 'college-guild.md', so it should be easy to find the appropriate guild.
 3. If your college, guild, or listing does not exist yet, follow the instructions below to create it.
 
-### How to create a new directory on GitHub
+### How to create a new folder on GitHub
 
 New directories are created on the GitHub web interface by creating individual documents in those directories. The new folder will be created automatically when you commit a new file in a newly-named folder.
 
