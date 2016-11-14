@@ -8,7 +8,11 @@ This website is an open-source project, so anyone may contact the CIC admins, re
 
 ### About point people
 
-Ideally, there would be one point person, per guild, per college. The point person keeps their guild listing up-to-date for their college, maintaining an index of that guilds various functions, places, projects, people, services, and external resources. The point person is listed at the top of each guild-college directory listing section, and these listings are displayed on both the appropriate guild and college page. The point-person is listed by their Telegram username, so that visitors to the CIC website may easily contact them to ask about the guild or the guild's directory listing on the website.
+Ideally, there would be one point person, per guild, per college.
+
+Duties of a point person:
+* The point person keeps their guild listing up-to-date for their college. This means creating and maintaining an index of that guild's various functions, places, projects, people, services, and external resources, in the context of your college.
+* The point person is listed at the top of each guild-college directory listing section (Telegram username), so people can contact you. Visitors to the CIC website may easily contact you to ask about the guild or the guild's directory listing on the website.
 
 ### How this site is hosted
 
@@ -42,7 +46,7 @@ Most of the content on the website is not stored in top-level pages: the most im
 New directories are created on the GitHub web interface by creating individual documents in those directories. The new folder will be created automatically when you commit a new file in a newly-named folder.
 
 1. Navigate to the parent directory where you would like to create a new folder.
-2. Click the "Create New File" button.
+2. Click the "Create new file" button.
 3. In the "Name your file..." box, type a *folder* name, then press the forward slash (/) key to make a subdirectory.
 4. Type a filename for a new file you would like to create in this directory.
 5. Add content to the file and commit the new file.
@@ -56,6 +60,28 @@ A college is an entire community, organization, or cluster of people that does n
 2. Go to [https://github.com/coalition-of-invisible-colleges/cic.github.io/tree/master/colleges], the /colleges/ directory.
 3. Follow the instructions just above for 'How to create a new directory on GitHub'. Use the name of your college as the folder name (use a version appropriately shortened to work as a URL), and name the file you create 'index.md'.
 4. Go into one of the other colleges folders, open their index.md, click Edit This File (the pen icon near the 'History' button), and copy the markdown code into your new index.md file, to use as a template.
-5. Write some introductory text for your college.
-6. Commit the file.
-7. Follow the instructions below to add a directory listing to your page, so there will be some content.
+5. Edit the header information in the file, between the ---'s, to reflect your college's name.
+6. Write some introductory text for your college.
+7. Commit the file.
+8. Follow the instructions below to add a directory listing to your page, so there will be some content.
+
+### How to add a new listing to the CIC directory
+
+A listing is an index of the functions, places, projects, people, services, and external resources for a guild, within the context of a specific college. This system allows each college to organize its self-index into multiple guilds, and for guilds to collaborate and self-organize across colleges. Each listing is stored as an individual file, and each listing file is displayed on both the appropriate Guild and College page in the directory.
+
+1. Create your college using the steps just above, if it doesn't exist already.
+2. Navigate to your [college's folder](https://github.com/coalition-of-invisible-colleges/cic.github.io/tree/master/colleges) on GitHub.
+3. Click the "Create new file" button.
+4. Name your file with the convention 'collegename-guildname.md', with dashes instead of spaces. For example, the Public Relater's Guild of the TEAM file would be named team-public-relaters.md.
+5. Open an existing listing file from yours or another guild, to use as a template. Click the 'Edit this file' button (the pen icon near the History button), copy the markdown text, and paste it into the new file you created.
+6. Edit the header information between the ---'s to reflect your college, guild, and the point person for that guild (their Telegram username, without the @).
+7. Add the listing itself in markdown format! This is the meat of the listing. Figure out the major aspects of your guild, be they people, projects, places to talk, shared documents or publically-accessible services that are ready to go.
+8. Make your listing look nice with appropriate headings, bulleted lists, and other niceties.
+9. Click Commit to save your changes and create the page.
+10. Navigate to the CIC and check your work! Hit Refresh (F5) on both the Guild and College page where you expect your listing to appear.
+11. Make sure it appears in both places! If it doesn't, you may have typed the header (front matter) information wrong in your file (the guild and college must match the guild and college name in the header information of the top-level guild and college pages exactly).
+12. You're done! Your new listing should appear in the correct locations.
+
+### How to get more help
+
+Ask [@deicidus](http://telegram.me/deicidus) or any of the point people for help editing the website or reaching out to additional colleges.
