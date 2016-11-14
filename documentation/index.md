@@ -17,7 +17,7 @@ Duties of a point person:
 
 ### How this site is hosted
 
-This website, {{site.url}}, is hosted on GitHub Pages. Git is a version control system which allows multiple versions of documents to be coordinated, edited by many people, and merged into one final version. GitHub is a public service which hosts git repositories which are publically-accessible. GitHub Pages is a feature of GitHub which can host Jekyll-based websites natively from its servers. Jekyll is a collection of scripts which allow web pages to be written in markdown, and provides a templating interface to run a simple-but-flexible website.
+This website, coalitionofinvisiblecolleges.org, is hosted on GitHub Pages. Git is a version control system which allows multiple versions of documents to be coordinated, edited by many people, and merged into one final version. GitHub is a public service which hosts git repositories which are publically-accessible. GitHub Pages is a feature of GitHub which can host Jekyll-based websites natively from its servers. Jekyll is a collection of scripts which allow web pages to be written in markdown, and provides a templating interface to run a simple-but-flexible website.
 
 ### How to request access to edit the CIC website
 
