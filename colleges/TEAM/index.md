@@ -11,6 +11,7 @@ Since March 2015, the TEAM has been working to coalesce and network together var
 
 If you'd like to connect with the TEAM:
 
-* Go through the [Registration/Check-In process](https://docs.google.com/forms/d/e/1FAIpQLScCkfwaPpZewm0XNX5GjzO_1CvJ1CYEsW0R8lBUUiTsrrYKYA/viewform)
-* Visit our [lobby on Telegram](http://telegram.me/TEAMlobby) and ask questions
-* Install Telegram (desktop and phone versions) and OneNote (desktop version)
+* [Registration](https://docs.google.com/forms/d/e/1FAIpQLScCkfwaPpZewm0XNX5GjzO_1CvJ1CYEsW0R8lBUUiTsrrYKYA/viewform)—Complete the registration/check-in process to join the TEAM and get connected with guilds
+* [Check-in Lobby](http://telegram.me/TEAMlobby)—Join this Telegram chatroom and ask questions
+* Install Telegram (desktop and phone versions) so you can chat with us and access guildhalls
+* OneNote (desktop version) so you can access our shared guildbooks
