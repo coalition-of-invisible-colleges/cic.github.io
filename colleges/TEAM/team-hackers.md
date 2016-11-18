@@ -6,7 +6,7 @@ pointperson: deicidus
 ---
 ### Places
 * **Hacker's Guildhall** is our headquarters on Telegram. Ask [@deicidus](http://telegram.me/deicidus) for an invite.
-* The **Hacker's Guildbook** is a shared notebook where we organize correspondences, design magical meta-networks, and coordinate magical research projects. Ask [@aliegnment](http://telegram.me/aliegnment) for an invite to view and edit the notebook.
+* The **Hacker's Guildbook** is our shared notebook. Ask [@aliegnment](http://telegram.me/aliegnment) for an invite.
 
 ### Projects
 
