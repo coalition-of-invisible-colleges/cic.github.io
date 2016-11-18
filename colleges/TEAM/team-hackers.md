@@ -11,7 +11,5 @@ pointperson: deicidus
 ### Projects
 
 * Programming [Ceptr](/colleges/ceptr)
-* Training programmers to program [Ceptr](/colleges/ceptr)
-* Recruiting progammers to work on [Ceptr](/colleges/ceptr)
-* Would you like to work on [Ceptr](/colleges/ceptr)?
+* Recruiting and training programmers to program [Ceptr](/colleges/ceptr)
 * Linux evangelism
