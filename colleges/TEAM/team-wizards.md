@@ -2,7 +2,7 @@
 layout: listing
 college: TEAM
 guild: wizards
-pointperson: deicidus
+pointperson: dunbaroan
 ---
 ### Places
 * **Wizard's Guildhall** is our headquarters on Telegram. Ask [@deicidus](http://telegram.me/deicidus) for an invite.
