@@ -6,7 +6,7 @@ pointperson: papersheepdog
 ---
 ### Places
 * The **Messiah's Guildhall** is our headquarters on Telegram. Ask [@papersheepdog](http://telegram.me/papersheepdog) for an invite.
-* The **Messiah's Guildbook** is a shared notebook where we author symmetric protocols, explore ethics, and articulate eschatonic mechanics.  Ask [@papersheepdog](http://telegram.me/papersheepdog) for an invite to view and edit the notebook.
+* The **Messiah's Guildbook** is a shared notebook. Ask [@papersheepdog](http://telegram.me/papersheepdog) for an invite to view and edit the notebook.
 * The **Messiah's Guildbook** is also expressed at the [spectacle.agency website](http://spectacle.agency/pages/view/171/messiahs-guildbook-wiki-home).
 
 ### Projects
