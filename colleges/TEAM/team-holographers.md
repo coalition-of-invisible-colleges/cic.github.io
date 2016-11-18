@@ -8,7 +8,6 @@ pointperson: papersheepdog
 * The **Holographer's Guildhall** is our headquarters on Telegram. Ask [@Ameslari](http://telegram.me/Ameslari) for an invite.
 * The **Holographer's Guildbook** is a shared notebook. Ask [@papersheepdog](http://telegram.me/papersheepdog) for an invite.
 * The **Holographer's Guildbook** is also expressed at the [spectacle.agency website](http://spectacle.agency/pages/view/139/holographers-guildbook-wiki-home).
-* **guilds meta (TEAM/CATS headquarters)** is the main Telegram chatroom for internal TEAM business. New protocols are published here. Complete the an application or check-in for an invite.
 
 ### Projects
 
