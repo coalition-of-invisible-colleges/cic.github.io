@@ -12,7 +12,7 @@ layout: default
      {% for my_page in site.pages %}
           {% if my_page.college == page.college %}
             {% if my_page.layout == 'listing' %}
-              <h2>{{ my_page.guild | capitalize }}' Guild</h2>
+              <h2><a href="{{ my_page.permalink }}">{{ my_page.guild | capitalize }}' Guild</a></h2>
               {% if my_page.pointperson %}
                 Point Person: {% include icon-telegram-user.html username=my_page.pointperson %}
               {% endif %}
