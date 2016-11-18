@@ -15,3 +15,6 @@ If you'd like to connect with the TEAM:
 * [Check-in Lobby](http://telegram.me/TEAMlobby)—Join this Telegram chatroom and ask questions
 * Install Telegram (desktop and phone versions) so you can chat with us and access guildhalls
 * OneNote (desktop version) so you can access our shared guildbooks
+
+
+**guilds meta (TEAM/CATS headquarters)** is the main Telegram chatroom for internal TEAM business. Complete the registration process to receive an invite.
