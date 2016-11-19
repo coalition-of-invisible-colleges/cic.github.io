@@ -1,8 +1,9 @@
 ---
 layout: page
-title: About
+title: About the CIC
 permalink: /about/
 menu: true
+menutext: About
 ---
 The CIC is a tactfully depolitical organization. The CIC is technically not an organization at all, but merely a directory. What does it mean to be listed in the directory of the Coalition of Invisible Colleges? Merely that you are listed in the directory.
 
