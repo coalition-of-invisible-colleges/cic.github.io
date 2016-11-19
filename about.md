@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About the CIC
+title: About
 permalink: /about/
 menu: true
 ---
