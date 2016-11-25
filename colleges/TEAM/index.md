@@ -14,7 +14,7 @@ If you'd like to connect with the TEAM:
 * [Registration](https://docs.google.com/forms/d/e/1FAIpQLScCkfwaPpZewm0XNX5GjzO_1CvJ1CYEsW0R8lBUUiTsrrYKYA/viewform)—Complete the registration/check-in process to join the TEAM and get connected with guilds
 * [Check-in Lobby](http://telegram.me/TEAMlobby)—Join this Telegram chatroom and ask questions
 * Install Telegram (desktop and phone versions) so you can chat with us and access guildhalls
-* OneNote (desktop version) so you can access our shared guildbooks
-
+* Install OneNote (desktop version) so you can access our shared guildbooks
+* Weekly meetings are held in the [TEAM voice room of the /r/occult Discord](https://discord.gg/fZvEmG4), Thursdays at 5pm PST
 
 **guilds meta (TEAM/CATS headquarters)** is the main Telegram chatroom for internal TEAM business. Complete the registration process to receive an invite.
