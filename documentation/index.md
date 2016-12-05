@@ -34,13 +34,14 @@ Markdown is a very simple markup language rendered from plain text to HTML. Here
 
 ### How to edit a top-level page
 
+Top-level pages include guild pages, college pages, the homepage, and pages accessible from the menu bar.
+
 Top-level pages can be edited by clicking the "Edit this page" link at the bottom of every page. You will be asked to sign into GitHub if you aren't already signed-in.
 
-Top-level pages include guild pages, college pages, the homepage, and pages accessible from the menu bar.
 
 ### How to edit a guild listing for a college
 
-Most of the content on the website is not stored in top-level pages: the most important content is the listings themselves. Listing sections are displayed on both their respective college and guild pages.
+The most important content on the website is the listings themselves. Listing sections are displayed on both their respective college and guild pages.
 
 Listings can be edited by clicking the "Edit this listing" link next to the listing title.
 
@@ -49,7 +50,7 @@ Listings can be edited by clicking the "Edit this listing" link next to the list
 New directories are created on the GitHub web interface by creating individual documents in those directories. The new folder will be created automatically when you commit a new file in a newly-named folder.
 
 1. Navigate to the parent directory where you would like to create a new folder.
-2. Click the "Create new file" button.
+2. Click the 'Create new file' button.
 3. In the "Name your file..." box, type a *folder* name, then press the forward slash (/) key to make a subdirectory.
 4. Type a filename for a new file you would like to create in this directory.
 5. Add content to the file and commit the new file.
@@ -61,9 +62,9 @@ A college is an entire community, organization, or cluster of people that does n
 
 1. Request edit access to the CIC website (see instructions above).
 2. Go to [https://github.com/coalition-of-invisible-colleges/cic.github.io/tree/master/colleges], the /colleges/ directory.
-3. Click the "Create new file" button.
+3. Click the 'Create new file' button.
 4. Name your file using the format "collegename.md".
-5. (In a separate browser tab,) Open one of the other college's .md files (for example, "TEAM.md", click Edit This File (the pen icon near the 'History' button), and copy the Markdown code into your new .md file, to use as a template.
+5. Open one of the other college's .md files (for example, "TEAM.md"), to use as a template. Click the 'Edit this file' button (the pen icon near the History button), copy the Markdown text, and paste it into the new file you created.
 6. Edit the header information in your file, between the ---'s, to reflect your college's name.
 7. Write some introductory text for your college.
 8. Commit the file.
@@ -75,7 +76,7 @@ A listing is an index of the functions, places, projects, people, services, and 
 
 1. Create your college using the steps just above, if it doesn't exist already.
 2. Navigate to the [_listings folder](https://github.com/coalition-of-invisible-colleges/cic.github.io/tree/master/_listings) on GitHub.
-3. Click the "Create new file" button.
+3. Click the 'Create new file' button.
 4. Name your file with the convention 'collegename-guildname.md', with dashes instead of spaces. For example, the Public Relater's Guild of the TEAM file would be named team-public-relaters.md.
 5. Open an existing listing file from yours or another guild, to use as a template. Click the 'Edit this file' button (the pen icon near the History button), copy the Markdown text, and paste it into the new file you created.
 6. Edit the header information between the ---'s to reflect your college, guild, and the point person for that guild (their Telegram username, without the @).
