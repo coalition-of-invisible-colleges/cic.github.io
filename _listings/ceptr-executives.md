@@ -1,4 +1,5 @@
 ---
+layout: listing
 college: Ceptr
 guild: executives
 pointperson: deicidus
