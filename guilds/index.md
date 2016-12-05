@@ -9,10 +9,5 @@ Guilds slice across organizations and communities, connecting people together by
 
 Here is a current list of guilds:
 
-{% for my_page in site.pages %}
-{% if my_page.guild %}
-{% unless my_page.college %}
-* [{{ my_page.title | escape }}]({{ my_page.url | relative_url }})
-{% endunless %}
-{% endif %}
-{% endfor %}
+{% for my_page in site.pages %}{% if my_page.layout = 'guild' %}* [{{ my_page.title | escape }}]({{ my_page.url | relative_url }})
+{% endunless %}{% endif %}{% endfor %}
