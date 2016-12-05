@@ -13,7 +13,8 @@ Here is a current list of confirmed CIC member colleges:
   {% if my_page.layout == 'college' %}
   * [{{my_page.title}}]({{my_page.permalink}})
   {% endif %}
-  
+{% endfor %}
+
 # Invited Colleges
 These colleges have been invited to be listed in the Coalition of Invisible Colleges directory, but they have not provided a listing yet:
 * [Fringechan.org](http://www.fringechan.org/)
