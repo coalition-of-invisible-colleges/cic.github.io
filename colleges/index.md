@@ -17,4 +17,5 @@ These colleges have been invited to be listed in the Coalition of Invisible Coll
 
 * [The New Centre for Research & Practice](http://thenewcentre.org)
 * [invisible.college](http://invisible.college)
+* The Learning Annex
 * [Fringechan.org](http://www.fringechan.org/)
