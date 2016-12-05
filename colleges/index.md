@@ -9,6 +9,6 @@ The Coalition of Invisible Colleges is a network made up of multiple discrete co
 
 Here is a current list of confirmed CIC member colleges:
 
-* [The MetaCurrency Project (Ceptr)](/colleges/ceptr/)
+* [The MetaCurrency Project (Ceptr)](/colleges/Ceptr/)
 * [The T.E.A.M. (Transliminal Earth Alliance Metanarrative)](/colleges/TEAM/)
 * [Fringechan.org](http://www.fringechan.org/)
