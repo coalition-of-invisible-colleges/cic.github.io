@@ -11,7 +11,7 @@ layout: default
     {{ content }}
     {% assign listings = site.listings | where: 'guild', page.guild | sort: 'guild' %}
     {% for listing in listings %}
-      <h2><a href="/colleges/{{ listing.college }}">{{ listing.college }}</a> {{ page.guild | Capitalize }}</h2>
+      <h2><a href="/colleges/{{ listing.college }}">{{ listing.college }}</a> {{ page.guild | capitalize }}</h2>
       {{ listing.output }}
     {% endfor %}
   </div>
