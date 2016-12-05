@@ -4,5 +4,5 @@ college: Ceptr
 guild: executives
 pointperson: deicidus
 ---
-# Places
+### Places
 * [Emerging Leader Labs](http://emergingleaderlabs.org/) homepage
