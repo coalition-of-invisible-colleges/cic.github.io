@@ -3,11 +3,11 @@ college: TEAM
 guild: librarians
 pointperson: halavdvash
 ---
-### Places
+# Places
 * The **Librarian's Guildhall** is our headquarters on Telegram. Ask [@halavdvash](http://telegram.me/halavdvash) for an invite.
 * The **Librarian's Guildbook** is a shared notebook. Ask [@deicidus](http://telegram.me/deicidus) for an invite.
 
-### Projects
+# Projects
 
 * Writing guides on finding books, movies, and other information online
 * Curating freely-available libraries
