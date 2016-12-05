@@ -1,5 +1,5 @@
 ---
-college: ceptr
+college: Ceptr
 guild: hackers
 pointperson: deicidus
 ---
