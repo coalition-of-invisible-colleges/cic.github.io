@@ -1,5 +1,4 @@
 ---
-layout: listing
 college: ceptr
 guild: hackers
 pointperson: deicidus
