@@ -36,14 +36,23 @@ Markdown is a very simple markup language rendered from plain text to HTML. Here
 
 Top-level pages include guild pages, college pages, the homepage, and pages accessible from the menu bar.
 
-Top-level pages can be edited by clicking the "Edit this page" link at the bottom of every page. You will be asked to sign into GitHub if you aren't already signed-in.
-
+1. Navigate to the page you want to edit.
+2. Click the 'Edit this page' link, located at the bottom of every page.
+3. You will be asked to sign into GitHub if you aren't already signed-in.
+4. Make your edits.
+5. Under 'Commit changes', write a note describing your changes, then click the 'Commit changes' button.
+6. That's it! Refresh the page to make sure your changes appear.
 
 ### How to edit a guild listing for a college
 
 The most important content on the website is the listings themselves. Listing sections are displayed on both their respective college and guild pages.
 
-Listings can be edited by clicking the "Edit this listing" link next to the listing title.
+1. Find the listing you want to edit
+2. Click the 'Edit this link' link, located to the right of the listing title.
+3. You will be asked to sign into GitHub if you aren't already signed-in.
+4. Make your edits.
+5. Under 'Commit changes', write a note describing your changes, then click the 'Commit changes' button.
+6. That's it! Refresh the page where your listing is located to make sure your changes appear.
 
 ### How to create a new folder on GitHub
 
