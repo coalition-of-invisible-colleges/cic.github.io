@@ -14,6 +14,7 @@ Here is a current list of confirmed CIC member colleges:
 
 # Invited Colleges
 These colleges have been invited to be listed in the Coalition of Invisible Colleges directory, but they have not provided a listing yet:
-* [Fringechan.org](http://www.fringechan.org/)
+
 * [The New Centre for Research & Practice](http://thenewcentre.org)
 * [invisible.college](http://invisible.college)
+* [Fringechan.org](http://www.fringechan.org/)
