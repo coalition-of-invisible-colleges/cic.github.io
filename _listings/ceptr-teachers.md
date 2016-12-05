@@ -1,5 +1,5 @@
 ---
-college: ceptr
+college: Ceptr
 guild: teachers
 pointperson: deicidus
 ---
