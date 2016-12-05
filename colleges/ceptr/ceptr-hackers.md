@@ -8,6 +8,8 @@ pointperson: deicidus
 * [Ceptr](http://ceptr.org)
 * [ceptr.slack.org](slack://ceptr.slack.org) on Slack (ask Eric or Arthur, below, for an invite)
 * The [Source Tree Commons](http://sourcetreecommons.org/), future site of the ceptr open-source repository
+* [Ceptr Google Drive folder](https://drive.google.com/drive/u/0/folders/0B1TJCMMO_OtyZmNiMzhiYWItOWJjYS00NjM2LWE3MTUtZmYzZTM2ZmMxYzhh)
+* [Old Ceptr Wiki](http://ceptr.wagn.org/)
 
 # People
 * Eric Harris-Braun: [@zippy314](http://telegram.me/zippy314) on Telegram, or [email](eric@harris-braun.com) (you can watch him code at [LiveCoding.tv](https://www.livecoding.tv/zippy/))
@@ -21,6 +23,9 @@ pointperson: deicidus
 * [Beyond Blockchain: Simple Scalable Cryptocurrencies](https://medium.com/metacurrency-project/beyond-blockchain-simple-scalable-cryptocurrencies-1eb7aebac6ae#.q7tqxi61o) by Arthur Brock
 * [Cryptocurrencies are Dead](https://medium.com/metacurrency-project/cryptocurrencies-are-dead-d4223154d783#.gj915zibo) by Arthur Brock
 * [Meta-currency: A Step Towards the Rheonomy by Eric Harris-Braun](https://blogs.harvard.edu/lawlab/2009/07/01/meta-currency-a-step-towards-the-rheonomy-by-eric-harris-braun/)
+* [Cryptocurrencies as digital "bearer instruments"](https://medium.com/@artbrock/cryptocurrencies-as-digital-bearer-instruments-fa6ec01ee4fc#.lvygt25fl)
+* [Why centeral banks will issue digital currency](https://medium.com/chain-inc/why-central-banks-will-issue-digital-currency-5fd9c1d3d8a2#.4yvu0cbwb)
+
 
 # Introductory viewing
 * Watch first: [Ceptr MIT webinar](http://ceptr.org/2015/09/24/mitkit-ceptr-webinar/) (1 hour)
