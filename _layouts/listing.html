@@ -2,6 +2,9 @@
 ---
 {% assign edit_url = 'coalition-of-invisible-colleges/cic.github.io/edit/master/' | append: page.path %}
 <div style="float: right; margin-top: -2.4em;">{% include icon-github.html username=edit_url title='Edit this listing' %}</div>
+{% if page.layout == 'college' %}
+ Display guild title
+{% endif %}
 {% if page.pointperson %}
   Point Person: {% include icon-telegram-user.html username=page.pointperson %}
 {% endif %}
