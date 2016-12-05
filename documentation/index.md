@@ -47,7 +47,7 @@ Top-level pages include guild pages, college pages, the homepage, and pages acce
 
 The most important content on the website is the listings themselves. Listing sections are displayed on both their respective college and guild pages.
 
-1. Find the listing you want to edit
+1. Find the listing you want to edit.
 2. Click the 'Edit this link' link, located to the right of the listing title.
 3. You will be asked to sign into GitHub if you aren't already signed-in.
 4. Make your edits.
