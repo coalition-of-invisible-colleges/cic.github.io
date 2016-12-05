@@ -3,13 +3,12 @@ college: TEAM
 guild: holographers
 pointperson: papersheepdog
 ---
-# Places
+### Places
 * The **Holographer's Guildhall** is our headquarters on Telegram. Ask [@Ameslari](http://telegram.me/Ameslari) for an invite.
 * The **Holographer's Guildbook** is a shared notebook. Ask [@papersheepdog](http://telegram.me/papersheepdog) for an invite.
 * The **Holographer's Guildbook** is also expressed at the [spectacle.agency website](http://spectacle.agency/pages/view/139/holographers-guildbook-wiki-home).
 
-# Projects
-
+### Projects
 * Articulating the Protocols
 * The Holographers' Guildbook, aka The Book of the TEAM
 * The guilds system
