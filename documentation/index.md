@@ -40,11 +40,9 @@ Top-level pages include guild pages, college pages, the homepage, and pages acce
 
 ### How to edit a guild listing for a college
 
-Most of the content on the website is not stored in top-level pages: the most important content is the listings themselves.
+Most of the content on the website is not stored in top-level pages: the most important content is the listings themselves. Listing sections are displayed on both their respective college and guild pages.
 
-1. Go to [https://github.com/coalition-of-invisible-colleges/cic.github.io/tree/master/colleges](https://github.com/coalition-of-invisible-colleges/cic.github.io/tree/master/colleges) and find the directory for the college you want to edit a listing for. For example, to edit a guild listing for the TEAM, click the TEAM folder.
-2. Find the guild listing within the folder that you want to edit. Listings are titled with the convention 'college-guild.md', so it should be easy to find the appropriate guild.
-3. If your college, guild, or listing does not exist yet, follow the instructions below to create it.
+Listings can be edited by clicking the "Edit this listing" link next to the listing title.
 
 ### How to create a new folder on GitHub
 
@@ -63,25 +61,26 @@ A college is an entire community, organization, or cluster of people that does n
 
 1. Request edit access to the CIC website (see instructions above).
 2. Go to [https://github.com/coalition-of-invisible-colleges/cic.github.io/tree/master/colleges], the /colleges/ directory.
-3. Follow the instructions just above for 'How to create a new directory on GitHub'. Use the name of your college as the folder name (use a version appropriately shortened to work as a URL), and name the file you create 'index.md'.
-4. Go into one of the other colleges folders, open their index.md, click Edit This File (the pen icon near the 'History' button), and copy the Markdown code into your new index.md file, to use as a template.
-5. Edit the header information in the file, between the ---'s, to reflect your college's name.
-6. Write some introductory text for your college.
-7. Commit the file.
-8. Follow the instructions below to add a directory listing to your page, so there will be some content.
+3. Click the "Create new file" button.
+4. Name your file using the format "collegename.md".
+5. (In a separate browser tab,) Open one of the other college's .md files (for example, "TEAM.md", click Edit This File (the pen icon near the 'History' button), and copy the Markdown code into your new .md file, to use as a template.
+6. Edit the header information in your file, between the ---'s, to reflect your college's name.
+7. Write some introductory text for your college.
+8. Commit the file.
+9. Follow the instructions below to add a listing to your page, so there will be some content.
 
 ### How to add a new listing to a college/guild in the directory
 
 A listing is an index of the functions, places, projects, people, services, and external resources for a guild, within the context of a specific college. This system allows each college to organize its self-index into multiple guilds, and for guilds to collaborate and self-organize across colleges. Each listing is stored as an individual file, and each listing file is displayed on both the appropriate Guild and College page in the directory.
 
 1. Create your college using the steps just above, if it doesn't exist already.
-2. Navigate to your [college's folder](https://github.com/coalition-of-invisible-colleges/cic.github.io/tree/master/colleges) on GitHub.
+2. Navigate to the [_listings folder](https://github.com/coalition-of-invisible-colleges/cic.github.io/tree/master/_listings) on GitHub.
 3. Click the "Create new file" button.
 4. Name your file with the convention 'collegename-guildname.md', with dashes instead of spaces. For example, the Public Relater's Guild of the TEAM file would be named team-public-relaters.md.
 5. Open an existing listing file from yours or another guild, to use as a template. Click the 'Edit this file' button (the pen icon near the History button), copy the Markdown text, and paste it into the new file you created.
 6. Edit the header information between the ---'s to reflect your college, guild, and the point person for that guild (their Telegram username, without the @).
 7. Add the listing itself in Markdown format! This is the meat of the listing. Figure out the major aspects of your guild, be they people, projects, places to talk, shared documents or publically-accessible services that are ready to go.
-8. Make your listing look nice with appropriate headings, bulleted lists, and other niceties.
+8. Make your listing look nice with appropriate headings, bulleted lists, and other niceties. (Use ### for headings—level 3 headings)
 9. Click Commit to save your changes and create the page.
 10. Navigate to the CIC and check your work! Hit Refresh (F5) on both the Guild and College page where you expect your listing to appear.
 11. Make sure it appears in both places! If it doesn't, you may have typed the header (front matter) information wrong in your file (the guild and college must match the guild and college name in the header information of the top-level guild and college pages exactly).
