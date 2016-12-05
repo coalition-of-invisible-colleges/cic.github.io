@@ -47,6 +47,6 @@ collections:
 defaults:
   -
     scope:
-      type: listing
+      type: listings
     values:
       layout: listing
