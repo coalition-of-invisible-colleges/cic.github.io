@@ -6,7 +6,7 @@ pointperson: deicidus
 ---
 # Places
 * [Ceptr](http://ceptr.org)
-* Slack server: ceptr.slack.org (ask Eric or Arthur, below, for an invite)
+* [ceptr.slack.org](slack://ceptr.slack.org) on Slack (ask Eric or Arthur, below, for an invite)
 * The [Source Tree Commons](http://sourcetreecommons.org/), future site of the ceptr open-source repository
 
 # People
