@@ -1,5 +1,5 @@
 ---
-college: ceptr
+college: Ceptr
 guild: executives
 pointperson: deicidus
 ---
