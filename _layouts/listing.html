@@ -5,5 +5,8 @@ Anything
 <a href="">Test edit link</a>
 {% assign edit_url = 'coalition-of-invisible-colleges/cic.github.io/edit/master/' | append: page.college | append: '-' | append: page.guild %}
 {% include icon-github.html username=edit_url title='Edit this listing' %}
+{% if page.pointperson %}
+  Point Person: {% include icon-telegram-user.html username=page.pointperson %}
+{% endif %}
 {{ content }}
 Anything2
