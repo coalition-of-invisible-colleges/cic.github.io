@@ -11,7 +11,7 @@ Here is a current list of confirmed CIC member colleges:
 
 {% for my_page in site.pages %}
   {% if my_page.layout == 'college' %}
-  * [{{my_page.title}}]({{my_page.permalink}})
+* [{{my_page.title}}]({{my_page.permalink}})
   {% endif %}
 {% endfor %}
 
