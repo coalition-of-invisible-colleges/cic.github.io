@@ -3,5 +3,5 @@ college: Ceptr
 guild: teachers
 pointperson: deicidus
 ---
-# Places
+### Places
 * [Agile Learning Centers](http://agilelearningcenters.org/) homepage
