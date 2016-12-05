@@ -13,4 +13,4 @@ pointperson: papersheepdog
 
 ### Projects
 
-* #sotscorp
+* [#sotscorp](https://www.reddit.com/r/sorceryofthespectacle/wiki/index/sotscorp-containment-breach)
