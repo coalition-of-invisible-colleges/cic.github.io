@@ -20,7 +20,7 @@ layout: default
       <div class="curatorbox">
           {% if listing.pointperson %}<p>{% include icon-telegram-user.html username=listing.pointperson %} (curator)</p>{% endif %}
           <p>{% include icon-github.html username=edit_url title='Edit this listing' %}</p>
-        </div>
+      </div>
       <div class="guildlisting {{ listing.guild }}">{{ listing.output }}</div>
     </div>
     {% endfor %}
