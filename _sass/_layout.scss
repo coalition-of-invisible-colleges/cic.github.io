@@ -258,50 +258,52 @@
   width: 33%;
   clear: both;
   float: left;
+  height: 100%;
   font-size: 0.6em;
 }
 
-.guildlisting {
+.listing .guildlisting {
   float: right;
   width: 67%;
+  background-color: rgba(255, 255, 255, 0.5);
 }
 
-.guildtitle.executives {
+.listing.executives {
   background-color: #c90000;
 }
 
-.guildlisting.executives {
+/*.listing .executives .guildlisting {
   background-color: #ff9696;
-}
+}*/
 
-.guildtitle.hackers {
+.listing.hackers {
   background-color: #000000;
 }
 
-.guildtitle.holographers {
+.listing.holographers {
   background-color: #2fc6ef;
 }
 
-.guildtitle.librarians {
+.listing.librarians {
   background-color: #ffb45e;
 }
 
-.guildtitle.messiahs {
+.listing.messiahs {
   background-color: #820de2;
 }
 
-.guildtitle.permaculturists {
+.listing.permaculturists {
   background-color: #7dff38;
 }
 
-.guildtitle.shamans {
+.listing.shamans {
   background-color: #005e01
 }
 
-.guildtitle.teachers {
+.listing.teachers {
   background-color: #828282;
 }
 
-.guildtitle.wizards {
+.listing.wizards {
   background-color: #1800ba;
 }
