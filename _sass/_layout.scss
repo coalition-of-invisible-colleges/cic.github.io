@@ -269,6 +269,16 @@
   font-size: 1.1em;
 }
 
+.curatorbox {
+  position: absolute;
+  bottom: 0;
+  padding: 0.5em;
+}
+
+.curatorbox p {
+  margin-bottom: 0;
+}
+
 @include media-query($on-laptop) {
   .guildtitle h2 {
     font-size: 1.2em;
