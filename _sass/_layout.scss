@@ -252,19 +252,12 @@
  * Guilds
  */
 .listing {
-  float: left;
-}
-
-.listing:after {
-  content: "";
-  clear: both;
-  display: table;
+  overflow: hidden;
 }
 
 .guildtitle {
   float: left;
   width: 33%;
-  height: 100%;
   clear: both;
 }
 
