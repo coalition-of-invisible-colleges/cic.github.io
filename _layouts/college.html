@@ -9,7 +9,6 @@ layout: default
 
   <div class="post-content">
     {{ content }}
-    <h2>Guilds this college participates in:</h2>
     {% assign listings = site.listings | where: 'college', page.college | sort: 'college' %}
     {% for listing in listings %}
     <div class="listing {{ listing.guild }}" style="position: relative;">
