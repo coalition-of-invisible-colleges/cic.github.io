@@ -264,8 +264,11 @@
 .guildtitle {
   float: left;
   width: 33%;
-  font-size: 0.6em;
   clear: both;
+}
+
+#guildtitle h2 {
+    font-size: 0.6em;
 }
 
 .guildlisting {
