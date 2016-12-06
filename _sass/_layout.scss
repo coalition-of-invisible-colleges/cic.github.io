@@ -272,6 +272,7 @@
 @include media-query($on-laptop) {
   .guildtitle h2 {
     font-size: 1.2em;
+    padding-top: 0;
   }
 }
 
