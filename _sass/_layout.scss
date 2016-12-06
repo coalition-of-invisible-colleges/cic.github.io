@@ -253,6 +253,7 @@
  */
 .listing {
   overflow: hidden;
+  border-left: 6px solid;
 }
 
 .guildtitle {
@@ -302,37 +303,37 @@
 }
 
 .listing.executives {
-  background-color: #c90000;
+  border-color: #c90000;
 }
 
 .listing.hackers {
-  background-color: #000000;
+  border-color: #000000;
 }
 
 .listing.holographers {
-  background-color: #2fc6ef;
+  border-color: #2fc6ef;
 }
 
 .listing.librarians {
-  background-color: #ffb45e;
+  border-color: #ffb45e;
 }
 
 .listing.messiahs {
-  background-color: #820de2;
+  border-color: #820de2;
 }
 
 .listing.permaculturists {
-  background-color: #7dff38;
+  border-color: #7dff38;
 }
 
 .listing.shamans {
-  background-color: #005e01
+  border-color: #005e01
 }
 
 .listing.teachers {
-  background-color: #828282;
+  border-color: #828282;
 }
 
 .listing.wizards {
-  background-color: #1800ba;
-}
+  border-color: #1800ba;
+} 
