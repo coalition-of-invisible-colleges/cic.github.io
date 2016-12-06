@@ -11,7 +11,7 @@ layout: default
     {{ content }}
     {% assign listings = site.listings | where: 'guild', page.guild | sort: 'guild' %}
     {% for listing in listings %}
-      <div class="listing {{ listing.guild }}" style="position: relative; margin-bottom: 4px;">
+      <div class="listing {{ listing.guild }}" style="position: relative; margin-bottom: 5px;">
         <div class="guildtitle">
           <h2><a href="/colleges/{{ listing.college }}">{{ listing.college }}</a></h2>
           <p class="guildsubheading">{{ page.guild | capitalize }}' Guild</p>
