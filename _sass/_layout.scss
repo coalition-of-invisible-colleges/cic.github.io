@@ -260,12 +260,11 @@
   clear: both;
   float: left;
   height: 100%;
-  padding: 1em;
 }
 
 @include media-query($on-laptop) {
   .guildtitle h2 {
-    font-size: 1em;
+    font-size: 1.2em;
   }
 }
 
