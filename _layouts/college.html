@@ -12,7 +12,7 @@ layout: default
     {% assign listings = site.listings | where: 'college', page.college | sort: 'college' %}
     {% for listing in listings %}
     <div class="listing">
-      <h2 class="guildtitle {{ listing.guild }}"><a href="/guilds/{{ listing.guild }}">{{ listing.guild | capitalize }}' Guild</a> ({{ page.college }})</h2>
+      <div class="guildtitle {{ listing.guild }}"><h2><a href="/guilds/{{ listing.guild }}">{{ listing.guild | capitalize }}' Guild</a> ({{ page.college }})</h2></div>
       <div class="guildlisting {{ listing.guild }}">{{ listing.output }}</div>
       <div style="clear: both" />
     </div>
