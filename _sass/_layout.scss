@@ -253,18 +253,20 @@
  */
 .listing {
   overflow: hidden;
-  padding: 1em;
 }
 
 .guildtitle {
+  box-sizing: border-box;
   width: 33%;
   clear: both;
   float: left;
   height: 100%;
+  padding: 0.5em;
 }
 
 .guildsubheading {
   color: #444444;
+  font-size: 1.1em;
 }
 
 @include media-query($on-laptop) {
@@ -274,9 +276,11 @@
 }
 
 .listing .guildlisting {
+  box-sizing: border-box;
   float: right;
   width: 67%;
   background-color: rgba(255, 255, 255, 0.8);
+  padding: 0.5em;
 }
 
 .listing.executives {
