@@ -12,7 +12,12 @@ layout: default
     {% assign listings = site.listings | where: 'college', page.college | sort: 'college' %}
     {% for listing in listings %}
     <div class="listing {{ listing.guild }}">
-      <h2 class="guildtitle {{ listing.guild }}"><a href="/guilds/{{ listing.guild }}">{{ listing.guild | capitalize }}' Guild</a> ({{ page.college }})</h2>
+      <div class="guildtitle {{ listing.guild }}">
+        <h2><a href="/guilds/{{ listing.guild }}">{{ listing.guild | capitalize }}' Guild</a> ({{ page.college }})</h2>
+        {% assign edit_url = 'coalition-of-invisible-colleges/cic.github.io/edit/master/' | append: listing.path %}
+        <p>{% include icon-github.html username=edit_url title='Edit this listing' %}</p>
+        {% if page.pointperson %}<p>Point Person: {% include icon-telegram-user.html username=page.pointperson %}</p>{% endif %}
+      </div>
       <div class="guildlisting {{ listing.guild }}">{{ listing.output }}</div>
     </div>
     {% endfor %}
