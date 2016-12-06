@@ -260,6 +260,11 @@
   clear: both;
   float: left;
   height: 100%;
+  padding: 0.5em;
+}
+
+.guildsubheading {
+  color: #444444;
 }
 
 @include media-query($on-laptop) {
@@ -277,10 +282,6 @@
 .listing.executives {
   background-color: #c90000;
 }
-
-/*.listing .executives .guildlisting {
-  background-color: #ff9696;
-}*/
 
 .listing.hackers {
   background-color: #000000;
