@@ -17,7 +17,7 @@ layout: default
         <p class="guildsubheading">{{ page.college }}</p>
         {% assign edit_url = 'coalition-of-invisible-colleges/cic.github.io/edit/master/' | append: listing.path %}
       </div>
-      <div style="position: absolute; bottom: 0; padding: 0.5em;">
+      <div class="curatorbox">
           {% if listing.pointperson %}<p>{% include icon-telegram-user.html username=listing.pointperson %} (curator)</p>{% endif %}
           <p>{% include icon-github.html username=edit_url title='Edit this listing' %}</p>
         </div>
