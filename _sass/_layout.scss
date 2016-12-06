@@ -279,11 +279,9 @@
   margin-bottom: 0;
 }
 
-@include media-query($on-laptop) {
-  .guildtitle h2 {
-    font-size: 1.3em;
-    padding-top: 0;
-  }
+.guildtitle h2 {
+  font-size: 1.3em;
+  padding-top: 0;
 }
 
 .listing .guildlisting {
