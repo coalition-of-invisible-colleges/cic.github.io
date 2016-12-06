@@ -17,7 +17,7 @@ layout: default
         <p class="guildsubheading">{{ page.college }}</p>
         {% assign edit_url = 'coalition-of-invisible-colleges/cic.github.io/edit/master/' | append: listing.path %}
         {% if listing.pointperson %}<p>{% include icon-telegram-user.html username=listing.pointperson %} (curator)</p>{% endif %}
-        <p>{% include icon-github.html username=edit_url title='Edit this listing' %}</p>
+        <p style="vertical-align: text-bottom;">{% include icon-github.html username=edit_url title='Edit this listing' %}</p>
       </div>
       <div class="guildlisting {{ listing.guild }}">{{ listing.output }}</div>
     </div>
