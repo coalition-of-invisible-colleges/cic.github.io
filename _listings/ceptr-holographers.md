@@ -10,6 +10,7 @@ pointperson: deicidus
 * [@metacurrency](https://www.facebook.com/metacurrency) on Facebook
 * [Hackpad](https://metacurrency.hackpad.com/) (for meeting notes)
 * [Trello](https://trello.com/metacurrency) (for collective tasking)
+* [Google+ Profile](https://plus.google.com/117503605675579476415) (empty)
 
 ### People
 There is an updated [list of people](http://metacurrency.org/team/) on the MetaCurrency Project homepage.
