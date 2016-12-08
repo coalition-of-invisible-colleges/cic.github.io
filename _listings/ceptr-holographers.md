@@ -30,3 +30,4 @@ These protocols are used internally to regulate access to the community and its 
 
 ### Meta
 * [Metacurrency Org Redesign](https://docs.google.com/spreadsheets/d/1Z03Dqbkq91oFlpsNFAGoIGwehq44jcXY1MgHelu_kjE/edit#gid=0) spreadsheet—the community is currently undergoing a redesign, and groups called "do-ops" are being formed here
+* [Currency Website Assets](https://docs.google.com/spreadsheets/d/1tCIAykiIdiJ3bAOC4TRNfBFrGrVctfzWm5CGzfNC_ac/edit#gid=0) spreadsheet—contains a list of many other archived or unfinished websites related to the MetaCurrency Project
