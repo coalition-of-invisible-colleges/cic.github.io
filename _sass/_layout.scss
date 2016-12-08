@@ -253,17 +253,23 @@
  * Guilds
  */
 .listing {
-  overflow: hidden;
-  border-left: 6px solid;
+  position: relative;
+  @extend %clearfix;
+  @media screen and (min-width: $on-palm) {
+    border-left: 6px solid;
+  }
 }
 
 .guildtitle {
   box-sizing: border-box;
-  width: 33%;
-  clear: both;
-  float: left;
+  position: relative;
   height: 100%;
   padding: 0.5em;
+  @media screen and (min-width: $on-palm) {
+    width: 33%;
+    clear: both;
+    float: left;
+  }
 }
 
 .guildsubheading {
@@ -271,9 +277,13 @@
 }
 
 .curatorbox {
-  position: absolute;
-  bottom: 0;
+  box-sizing: border-box;
   padding: 0.5em;
+  @media screen and (min-width: $on-palm) {
+    position: absolute;
+    bottom: 0;
+    width: 33%;
+  }
 }
 
 .curatorbox p {
@@ -297,54 +307,85 @@
 
 .listing .guildlisting {
   box-sizing: border-box;
-  float: right;
-  width: 67%;
   background-color: white;
-  padding: 0.5em 0.5em 0 0.5em;
+  padding: 1em;
   min-height: 8.5em;
+  border-top: 6px solid;
+  @media screen and (min-width: $on-palm) {
+    float: right;
+    width: 67%;
+    border-top: none;
+  }
 }
 
 .listing.executives {
-  border-left-color: #c90000;
+  border-color: #c90000;
   background-color: #ffcccc;
+  .guildlisting {
+    border-color: #c90000;
+  }
 }
 
 .listing.hackers {
-  border-left-color: #000000;
+  border-color: #000000;
   background-color: #cccccc;
+  .guildlisting {
+    border-color: #000000;
+  }
 }
 
 .listing.holographers {
-  border-left-color: #2fc6ef;
+  border-color: #2fc6ef;
   background-color: #e2ffff;
+  .guildlisting {
+    border-color: #2fc6ef;
+  }
 }
 
 .listing.librarians {
-  border-left-color: #ffb45e;
+  border-color: #ffb45e;
   background-color: #ffffdd;
+  .guildlisting {
+    border-color: #ffb45e;
+  }
 }
 
 .listing.messiahs {
-  border-left-color: #820de2;
+  border-color: #820de2;
   background-color: #ffd9ff;
+  .guildlisting {
+    border-color: #820de2;
+  }
 }
 
 .listing.permaculturists {
-  border-left-color: #7dff38;
+  border-color: #7dff38;
   background-color: #E3FF9E;
+  .guildlisting {
+    border-color: #7dff38;
+  }
 }
 
 .listing.shamans {
-  border-left-color: #005e01;
+  border-color: #005e01;
   background-color: #7FDD80;
+  .guildlisting {
+    border-color: #005e01;
+  }
 }
 
 .listing.teachers {
-  border-left-color: #828282;
+  border-color: #828282;
   background-color: #CFCFCF;
+  .guildlisting {
+    border-color: #828282;
+  }
 }
 
 .listing.wizards {
-  border-left-color: #1800ba;
+  border-color: #1800ba;
   background-color: #E4CCFF;
+  .guildlisting {
+    border-color: #1800ba;
+  }
 }

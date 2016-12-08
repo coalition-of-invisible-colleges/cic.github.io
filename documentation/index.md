@@ -3,6 +3,7 @@ layout: page
 title: Documentation
 permalink: /documentation/
 menu: true
+menutext: Documentation
 ---
 This website is an open-source project, so anyone may contact the CIC admins, request edit access, and add their college and/or guild to the directory.
 
