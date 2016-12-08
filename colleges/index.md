@@ -22,3 +22,4 @@ These colleges have been invited to be listed in the Coalition of Invisible Coll
 * Eloah
 * [Fringechan.org](http://www.fringechan.org/)
 * Carcini Institute
+* The Translucent Society
