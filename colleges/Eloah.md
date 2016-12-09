@@ -1,8 +1,8 @@
 ---
 layout: college
-title: The Transliminal Earth Alliance Metanarrative (T.E.A.M.)
-permalink: /colleges/TEAM/
-college: TEAM
+title: Eloah
+permalink: /colleges/Eloah/
+college: Eloah
 ---
 
 Description Here
