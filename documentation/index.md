@@ -7,14 +7,14 @@ menutext: Documentation
 ---
 This website is an open-source project, so anyone may contact the CIC admins, request edit access, and add their college and/or guild to the directory.
 
-### About point people
+### About curators
 
-Ideally, there would be one point person, per guild, per college.
+Ideally, there would be one curator, per guild, per college.
 
-Duties of a point person:
+Duties of a curator:
 
-* The point person keeps their guild listing up-to-date for their college. This means creating and maintaining an index of that guild's various functions, places, projects, people, services, and external resources, in the context of your college.
-* The point person is listed at the top of each guild-college directory listing section (Telegram username), so people can contact you. Visitors to the CIC website may easily contact you to ask about the guild or the guild's directory listing on the website.
+* The curator keeps their guild listing up-to-date for their college. This means creating and maintaining an index of that guild's various functions, places, projects, people, services, and external resources, in the context of your college.
+* The curator n is listed at the top of each guild-college directory listing section (Telegram username), so people can contact you. Visitors to the CIC website may easily contact you to ask about the guild or the guild's directory listing on the website.
 
 ### How this site is hosted
 
@@ -68,7 +68,7 @@ New directories are created on the GitHub web interface by creating individual d
 
 ### How to add a new college to the CIC directory
 
-A college is an entire community, organization, or cluster of people that does not overlap much with the existing colleges in the directory (it would be too confusing for visitors to the website if each community had several distinct listings). If you represent an entire community, you or your point person may add your college to the CIC! The steps are easy:
+A college is an entire community, organization, or cluster of people that does not overlap much with the existing colleges in the directory (it would be too confusing for visitors to the website if each community had several distinct listings). If you represent an entire community, you or your curator may add your college to the CIC! The steps are easy:
 
 1. Request edit access to the CIC website (see instructions above).
 2. Go to [https://github.com/coalition-of-invisible-colleges/cic.github.io/tree/master/colleges], the /colleges/ directory.
@@ -89,7 +89,7 @@ A listing is an index of the functions, places, projects, people, services, and 
 3. Click the 'Create new file' button.
 4. Name your file with the convention 'collegename-guildname.md', with dashes instead of spaces. For example, the Public Relater's Guild of the TEAM file would be named team-public-relaters.md.
 5. Open an existing listing file from yours or another guild, to use as a template. Click the 'Edit this file' button (the pen icon near the History button), copy the Markdown text, and paste it into the new file you created.
-6. Edit the header information between the ---'s to reflect your college, guild, and the point person for that guild (their Telegram username, without the @).
+6. Edit the header information between the ---'s to reflect your college, guild, and the curator for that guild (their Telegram username, without the @).
 7. Add the listing itself in Markdown format! This is the meat of the listing. Figure out the major aspects of your guild, be they people, projects, places to talk, shared documents or publically-accessible services that are ready to go.
 8. Make your listing look nice with appropriate headings, bulleted lists, and other niceties. (Use ### for headings—level 3 headings)
 9. Click Commit to save your changes and create the page.
