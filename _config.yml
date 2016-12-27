@@ -43,10 +43,8 @@ exclude:
 
 collections:
   - listings
-  - colleges:
-    output: true
-  - guilds:
-    output: true
+  - colleges
+  - guilds
 
 defaults:
   - scope:
