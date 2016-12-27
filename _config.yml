@@ -58,7 +58,7 @@ defaults:
       type: colleges
     values:
       layout: college
-      guildword: " Guild"
+      groupword: " Guild"
   - scope:
       type: guilds
     values:
