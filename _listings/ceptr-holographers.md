@@ -1,5 +1,6 @@
 ---
 college: Ceptr
+group: hol-op
 guild: holographers
 pointperson: deicidus
 ---
