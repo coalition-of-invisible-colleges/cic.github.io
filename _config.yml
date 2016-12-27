@@ -47,7 +47,7 @@ collections:
   colleges:
     output: true
   guilds:
-    output: false
+    output: true
 
 defaults:
   - scope:
