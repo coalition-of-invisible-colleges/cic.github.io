@@ -1,5 +1,4 @@
 ---
-layout: guild
 title: Shaman's Guild
 guild: shamans
 permalink: /guilds/shamans/
