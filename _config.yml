@@ -43,7 +43,8 @@ exclude:
 
 collections:
   - listings
-  - colleges
+  - colleges:
+    output: true
 
 defaults:
   -
