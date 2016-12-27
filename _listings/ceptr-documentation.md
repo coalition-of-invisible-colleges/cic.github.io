@@ -8,12 +8,12 @@ curator: matt@caLabs.org
 Provide clarity for developers about where Ceptr is going and documentation for how to contribute to building it
 
 ### People
-Arthur Brock
-Anders Aamodt
-Zachary Larson
-Timothy Carlin-Burns
-Jorge Ramos
-Eric Harris-Braun (as resource)
+* Arthur Brock
+* Anders Aamodt
+* Zachary Larson
+* Timothy Carlin-Burns
+* Jorge Ramos
+* Eric Harris-Braun (as resource)
 
 ### Places
 * [Documentation Spreadsheet](https://docs.google.com/spreadsheets/d/1X9MB7JVKZ2_nvaC9jIAQRAdFwyDiJbArLPCz8g4PVQg/edit)
