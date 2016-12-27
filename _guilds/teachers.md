@@ -1,5 +1,4 @@
 ---
-layout: guild
 title: Teacher's Guild
 guild: teachers
 permalink: /guilds/teachers/
