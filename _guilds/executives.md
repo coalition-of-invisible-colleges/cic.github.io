@@ -1,5 +1,4 @@
 ---
-layout: guild
 title: Executive's Guild
 guild: executives
 permalink: /guilds/executives/
