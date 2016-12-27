@@ -1,5 +1,4 @@
 ---
-layout: college
 title: Eloah
 permalink: /colleges/Eloah/
 college: Eloah
