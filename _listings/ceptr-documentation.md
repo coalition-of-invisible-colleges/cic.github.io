@@ -1,6 +1,6 @@
 ---
 college: Ceptr
-group: documentation
+group: dev documentation
 guild: hackers
 pointperson: deicidus
 ---
