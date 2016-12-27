@@ -1,5 +1,4 @@
 ---
-layout: guild
 title: Messiah's Guild
 guild: messiahs
 permalink: /guilds/messiahs/
