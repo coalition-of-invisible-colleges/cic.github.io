@@ -12,7 +12,7 @@ layout: default
     {% assign listings = site.listings | where: 'college', page.college | sort: 'college' %}
     {% for listing in listings %}
     {% assign guild = site.listings | where: 'name', listing.guild %}
-    <div class="listing {{ listing.guild }}">
+    <div class="listing" style="background-color: {{ guild.background-color }}; border-color: {{ guild.border-color }};">
       <div class="guildtitle {{ listing.group }}">
         <h2><a href="/guilds/{{ listing.guild }}">{{ listing.group | capitalize }}{{ page.groupword }}</a></h2>
         <p class="guildsubheading">{{ page.college }}</p>
@@ -22,7 +22,7 @@ layout: default
           {% if listing.pointperson %}<p>{% include icon-telegram-user.html username=listing.pointperson %}(curator)</p>{% endif %}
           <p>{% include icon-github.html username=edit_url title='Edit this listing' %}</p>
       </div>
-      <div class="guildlisting {{ listing.guild }}">{{ listing.output }}</div>
+      <div class="guildlisting" style="border-color: {{ guild.border-color }};">{{ listing.output }}</div>
     </div>
     {% endfor %}
   </div>
