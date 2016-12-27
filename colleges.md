@@ -10,7 +10,7 @@ The Coalition of Invisible Colleges is a network made up of multiple discrete co
 Here is a current list of confirmed CIC member colleges:
 
 {% assign colleges = site.colleges | sort: 'title' %}
-{% for college in colleges %}* [{{collegee.title}}]({{college.permalink}})
+{% for college in colleges %}* [{{ college.title }}]({{ college.permalink }})
 {% endfor %}
 
 # Invited Colleges
