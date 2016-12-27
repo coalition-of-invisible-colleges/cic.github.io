@@ -51,9 +51,8 @@ defaults:
       type: listings
     values:
       layout: listing
-
   - scope:
       type: colleges
-     values:
+    values:
       layout: college
       guildword: guild
