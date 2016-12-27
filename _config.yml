@@ -43,7 +43,7 @@ exclude:
 
 collections:
   - listings
-  - colleges:
+  - colleges
   - guilds
 
 defaults:
