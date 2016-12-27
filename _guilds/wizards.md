@@ -2,6 +2,8 @@
 title: Wizard's Guild
 guild: wizards
 permalink: /guilds/wizards/
+background-color: '#e4ccff'
+border-color: "#1800ba"
 ---
 Wizards are generally concerned with three things:
 
