@@ -2,6 +2,8 @@
 title: Messiah's Guild
 guild: messiahs
 permalink: /guilds/messiahs/
+background-color: '#ffd9ff'
+border-color: '#820de2'
 ---
 Welcome to the Messiah's Guild!
 
