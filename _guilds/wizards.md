@@ -1,5 +1,4 @@
 ---
-layout: guild
 title: Wizard's Guild
 guild: wizards
 permalink: /guilds/wizards/
