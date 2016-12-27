@@ -11,7 +11,7 @@ layout: default
     {{ content }}
     {% assign listings = site.listings | where: 'college', page.college | sort: 'college' %}
     {% for listing in listings %}
-    {% assign guild = site.guilds | where: 'name', listing.guild %}
+    {% assign guild = site.guilds | where: 'guild', listing.guild %}
     <div class="listing" style="background-color: {{ guild.background-color }}; border-color: {{ guild.border-color }};">
       <div class="guildtitle {{ listing.group }}">
         <h2><a href="/guilds/{{ listing.guild }}">{{ listing.group | capitalize }}{{ page.groupword }}</a></h2>
