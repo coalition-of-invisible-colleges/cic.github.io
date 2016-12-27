@@ -14,7 +14,7 @@ layout: default
     {% assign college = site.colleges | where 'college', listing.college %}
     <div class="listing {{ listing.guild }}">
       <div class="guildtitle {{ listing.guild }}">
-        <h2><a href="/guilds/{{ listing.guild }}">{{ listing.guild | capitalize }}{{ college.guildword }}</a></h2>
+        <h2><a href="/guilds/{{ listing.guild }}">{{ listing.guild | capitalize }}' Guild</a></h2>
         <p class="guildsubheading">{{ page.college }}</p>
         {% assign edit_url = 'coalition-of-invisible-colleges/cic.github.io/edit/master/' | append: listing.path %}
       </div>
