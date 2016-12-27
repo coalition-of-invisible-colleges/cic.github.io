@@ -1,5 +1,4 @@
 ---
-layout: guild
 title: Permaculturist's Guild
 guild: permaculturists
 permalink: /guilds/permaculturists/
