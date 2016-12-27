@@ -2,7 +2,6 @@
 title: The MetaCurrency Project (Ceptr)
 permalink: /colleges/Ceptr/
 college: Ceptr
-guildword: " Do-op"
 ---
 The MetaCurrency Project is developing tools and platforms for open sourcing the next economy.
 
