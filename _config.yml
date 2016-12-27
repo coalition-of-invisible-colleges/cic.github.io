@@ -42,10 +42,12 @@ exclude:
   - Gemfile.lock
 
 collections:
-  - listings
-  - colleges:
+  listings:
+    output: false
+  colleges:
     output: true
-  - guilds
+  guilds:
+    output: false
 
 defaults:
   - scope:
