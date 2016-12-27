@@ -47,12 +47,14 @@ collections:
     output: true
 
 defaults:
-  - scope:
-      type: listings
+  -
+    scope:
+      type: "listings"
     values:
-      layout: listing
-  
-  - scope:
-      type: colleges
+      layout: "listing"
+  -
+    scope:
+      type: "colleges"
      values:
-      layout: college
+      layout: "college"
+      
