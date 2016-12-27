@@ -21,7 +21,7 @@ layout: default
             {% if listing.pointperson %}<p>{% include icon-telegram-user.html username=listing.pointperson %}(curator)</p>{% endif %}
             <p>{% include icon-github.html username=edit_url title='Edit this listing' %}</p>
         </div>
-        <div class="guildlisting" style="background-color: {{ page.background-color }}; border-color: {{ page.border-color }};">{{ listing.output }}</div>
+        <div class="guildlisting" style="border-color: {{ page.border-color }};">{{ listing.output }}</div>
       </div>
     {% endfor %}
   </div>
