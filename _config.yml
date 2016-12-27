@@ -45,6 +45,8 @@ collections:
   - listings
   - colleges:
     output: true
+  - guilds:
+    output: true
 
 defaults:
   - scope:
@@ -56,3 +58,7 @@ defaults:
     values:
       layout: college
       guildword: guild
+  - scope:
+      type: guilds
+    values:
+      layout: guild
