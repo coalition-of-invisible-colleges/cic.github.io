@@ -2,6 +2,8 @@
 title: Executive's Guild
 guild: executives
 permalink: /guilds/executives/
+background-color: #ffcccc
+border-color: #c90000
 ---
 Welcome to the Executive's Guild!  
 
