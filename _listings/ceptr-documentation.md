@@ -9,6 +9,7 @@ Provide clarity for developers about where Ceptr is going and documentation for 
 
 ### People
 * Arthur Brock
+* Matthew Schutte
 * Anders Aamodt
 * Zachary Larson
 * Timothy Carlin-Burns
