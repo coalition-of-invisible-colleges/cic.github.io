@@ -2,7 +2,7 @@
 layout: listing
 college: Ceptr
 guild: executives
-pointperson: deicidus
+curator: deicidus
 ---
 ### Places
 * [Emerging Leader Labs](http://emergingleaderlabs.org/) homepage

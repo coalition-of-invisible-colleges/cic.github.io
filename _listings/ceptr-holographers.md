@@ -2,7 +2,7 @@
 college: Ceptr
 group: hol-op
 guild: holographers
-pointperson: deicidus
+curator: deicidus
 ---
 ### Places
 * [The MetaCurrency Project](http://metacurrency.org) (has list of [projects](http://metacurrency.org/#projects), [philosophy](http://metacurrency.org/about) overview, list of [resources](http://metacurrency.org/resources/), [FAQ](http://metacurrency.org/faq/), and [contact form](http://metacurrency.org/contact/))

@@ -1,7 +1,7 @@
 ---
 college: TEAM
 guild: shamans
-pointperson: G_Nash
+curator: G_Nash
 ---
 ### Places
 *  **Shaman's Guildhall** is our headquarters on Telegram.  Ask [@G_Nash](http://telegram.me/G_Nash) for an invite.

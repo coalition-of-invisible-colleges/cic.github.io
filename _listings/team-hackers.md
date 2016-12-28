@@ -1,7 +1,7 @@
 ---
 college: TEAM
 guild: hackers
-pointperson: deicidus
+curator: deicidus
 ---
 ### Places
 * **Hacker's Guildhall** is our headquarters on Telegram. Ask [@deicidus](http://telegram.me/deicidus) for an invite.

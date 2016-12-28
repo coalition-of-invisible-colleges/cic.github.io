@@ -188,10 +188,24 @@ pre {
 /**
  * Icons
  */
-.icon > svg {
-  display: inline-block;
-  vertical-align: middle;
-
+.icon {
+  margin-right: 5px;
+  > svg {
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    vertical-align: text-top;
+  }
+}
+.icon--email {
+  > svg {
+    height: 19px;
+  }
+  path {
+    fill: #000;
+  }
+}
+.icon--github {
   path {
     fill: $grey-color;
   }

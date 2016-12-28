@@ -1,7 +1,7 @@
 ---
 college: TEAM
 guild: teachers
-pointperson: deicidus
+curator: deicidus
 ---
 ### Places
 * **Teacher's Guildhall** chatroom on Telegram (ask [@deicidus](http://telegram.me/deicidus) for an invite)

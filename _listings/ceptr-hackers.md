@@ -2,7 +2,7 @@
 college: Ceptr
 group: dev
 guild: hackers
-pointperson: deicidus
+curator: deicidus
 ---
 ### Places
 * [Ceptr](http://ceptr.org)

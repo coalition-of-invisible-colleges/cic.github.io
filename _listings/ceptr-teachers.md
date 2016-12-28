@@ -1,7 +1,7 @@
 ---
 college: Ceptr
 guild: teachers
-pointperson: deicidus
+curator: deicidus
 ---
 ### Places
 * [Agile Learning Centers](http://agilelearningcenters.org/) homepage

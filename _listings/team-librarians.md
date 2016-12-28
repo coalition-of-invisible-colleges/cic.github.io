@@ -1,7 +1,7 @@
 ---
 college: TEAM
 guild: librarians
-pointperson: halavdvash
+curator: halavdvash
 ---
 ### Places
 * The **Librarian's Guildhall** is our headquarters on Telegram. Ask [@halavdvash](http://telegram.me/halavdvash) for an invite.

@@ -1,7 +1,7 @@
 ---
 college: Ceptr
 guild: permaculturists
-pointperson: deicidus
+curator: deicidus
 background-color: #e3ff9e
 border-color: #7dff38
 ---

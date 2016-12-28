@@ -1,0 +1,15 @@
+{% assign platform = include.platform | default: 'telegram' %}
+{% assign title = include.title %}
+{% assign username = include.username %}
+{% assign icon = platform | prepend: 'icon-' | append: '.svg' %}
+{% case platform %}
+	{% when 'github' %}
+		{% assign url = 'https://github.com/' %}
+	{% when 'twitter' %}
+		{% assign url = 'https://twitter.com/' %}
+	{% when 'email' %}
+		{% assign url = 'mailto:' %}
+	{% else %}
+		{% assign url = 'https://telegram.me/' %}
+{% endcase %}
+<a href="{{ url }}{{ username }}"><span class="icon icon--{{platform}}">{% include {{icon}} %}</span><span class="username">{{ title | default: username }}</span></a>

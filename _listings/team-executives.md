@@ -1,7 +1,7 @@
 ---
 college: TEAM
 guild: executives
-pointperson: papersheepdog
+curator: papersheepdog
 ---
 ### Places
 * The **Executive's Guildhall** is our headquarters on Telegram. Ask [@papersheepdog](http://telegram.me/papersheepdog) for an invite.

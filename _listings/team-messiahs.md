@@ -1,7 +1,7 @@
 ---
 college: TEAM
 guild: messiahs
-pointperson: papersheepdog
+curator: papersheepdog
 ---
 ### Places
 * The **Messiah's Guildhall** is our headquarters on Telegram. Ask [@papersheepdog](http://telegram.me/papersheepdog) for an invite.

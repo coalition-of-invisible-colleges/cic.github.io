@@ -3,6 +3,7 @@ college: Ceptr
 group: dev documentation
 guild: hackers
 curator: matt@caLabs.org
+curatorplatform: email
 ---
 ### Purpose
 Provide clarity for developers about where Ceptr is going and documentation for how to contribute to building it
