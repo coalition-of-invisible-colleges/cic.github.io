@@ -8,6 +8,10 @@ curatorplatform: email
 ### Purpose
 Provide clarity for developers about where Ceptr is going and documentation for how to contribute to building it
 
+### Documentation
+* [Holochain documentation](https://godoc.org/github.com/metacurrency/holochain)
+* [Holochain FAQ](https://github.com/metacurrency/holochain/blob/master/FAQ.md)
+
 ### People
 * Arthur Brock
 * Matthew Schutte
@@ -19,4 +23,4 @@ Provide clarity for developers about where Ceptr is going and documentation for 
 
 ### Places
 * [Documentation Spreadsheet](https://docs.google.com/spreadsheets/d/1X9MB7JVKZ2_nvaC9jIAQRAdFwyDiJbArLPCz8g4PVQg/edit)
-* Standing meetings on Tuesday at 9 AM Pacific and Friday at Noon Pacific in [ceptr.org/hangout](http://ceptr.org/hangout)
+* Standing meetings on Tuesday at 9 AM Pacific and Friday at Noon P acific in [ceptr.org/hangout](http://ceptr.org/hangout)
