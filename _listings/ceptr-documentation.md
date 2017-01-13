@@ -10,7 +10,7 @@ Provide clarity for developers about where Ceptr is going and documentation for 
 
 ### Documentation
 * [Holochain documentation](https://godoc.org/github.com/metacurrency/holochain)
-* [Holochain FAQ](https://github.com/metacurrency/holochain/blob/master/FAQ.md)
+* [Holochain FAQ](https://github.com/metacurrency/holochain/blob/master/docs/FAQ.md)
 
 ### People
 * Arthur Brock
