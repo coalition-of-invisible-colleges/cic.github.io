@@ -1,6 +1,6 @@
 ---
-layout: listing
 college: Ceptr
+group: ???
 guild: executives
 curator: deicidus
 ---
