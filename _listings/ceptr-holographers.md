@@ -20,9 +20,6 @@ There is an updated [list of people](http://metacurrency.org/team/) on the MetaC
 - [Weekly meetings](http://ceptr.org/hangout) Wednesdays at 9:30am PST—for those who have accountabilities in the spreadsheet
 * Metacurrency Philosophy chat—bimonthly video chat for easier entry (does this still exist?)
 
-### Introductory reading
-* [MetaCurrency Project Vision & Strategy](http://metacurrency.org/portfolio-item/metacurrency-project-vision-strategy/)
-
 ### Protocols
 These protocols are used internally to regulate access to the community and its spaces and files.
 
