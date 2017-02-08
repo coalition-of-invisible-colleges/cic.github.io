@@ -1,5 +1,6 @@
 ---
 college: Ceptr
+group: ???
 guild: teachers
 curator: deicidus
 ---
