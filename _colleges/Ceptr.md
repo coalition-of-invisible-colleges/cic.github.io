@@ -15,6 +15,8 @@ Information for the MetaCurrency Project overall has been listed under the Holog
 * [Meta-currency: A Step Towards the Rheonomy by Eric Harris-Braun](https://blogs.harvard.edu/lawlab/2009/07/01/meta-currency-a-step-towards-the-rheonomy-by-eric-harris-braun/)
 * [Cryptocurrencies as digital "bearer instruments"](https://medium.com/@artbrock/cryptocurrencies-as-digital-bearer-instruments-fa6ec01ee4fc#.lvygt25fl)
 * [Why centeral banks will issue digital currency](https://medium.com/chain-inc/why-central-banks-will-issue-digital-currency-5fd9c1d3d8a2#.4yvu0cbwb)
+* [MetaCurrency Project Vision & Strategy](http://metacurrency.org/portfolio-item/metacurrency-project-vision-strategy/)
+
 
 ### Introductory viewing
 * Watch first: [Ceptr MIT webinar](http://ceptr.org/2015/09/24/mitkit-ceptr-webinar/) (1 hour)
