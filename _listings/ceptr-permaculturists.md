@@ -1,5 +1,6 @@
 ---
 college: Ceptr
+group: ???
 guild: permaculturists
 curator: deicidus
 background-color: #e3ff9e
