@@ -1,5 +1,6 @@
 ---
 college: TEAM
+group: holographers
 guild: holographers
 curator: papersheepdog
 ---
