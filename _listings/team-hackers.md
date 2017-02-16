@@ -1,5 +1,6 @@
 ---
 college: TEAM
+group: hackers
 guild: hackers
 curator: deicidus
 ---
