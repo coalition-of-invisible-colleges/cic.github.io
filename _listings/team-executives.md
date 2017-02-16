@@ -1,5 +1,6 @@
 ---
 college: TEAM
+group: executives
 guild: executives
 curator: papersheepdog
 ---
