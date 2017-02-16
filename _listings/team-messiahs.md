@@ -1,5 +1,6 @@
 ---
 college: TEAM
+group: messiahs
 guild: messiahs
 curator: papersheepdog
 ---
