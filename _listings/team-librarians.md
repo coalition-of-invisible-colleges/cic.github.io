@@ -1,5 +1,6 @@
 ---
 college: TEAM
+group: librarians
 guild: librarians
 curator: halavdvash
 ---
