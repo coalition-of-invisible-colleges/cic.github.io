@@ -1,5 +1,6 @@
 ---
 college: TEAM
+group: teachers
 guild: teachers
 curator: deicidus
 ---
