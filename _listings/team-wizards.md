@@ -1,5 +1,6 @@
 ---
 college: TEAM
+group: wizards
 guild: wizards
 curator: deicidus
 ---
