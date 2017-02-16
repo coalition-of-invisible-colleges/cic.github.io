@@ -1,5 +1,6 @@
 ---
 college: TEAM
+group: shamans
 guild: shamans
 curator: G_Nash
 ---
