@@ -17,12 +17,12 @@ Information for the MetaCurrency Project overall has been listed under the Holog
 * [Why centeral banks will issue digital currency](https://medium.com/chain-inc/why-central-banks-will-issue-digital-currency-5fd9c1d3d8a2#.4yvu0cbwb)
 * [MetaCurrency Project Vision & Strategy](http://metacurrency.org/portfolio-item/metacurrency-project-vision-strategy/)
 
-
 ### Introductory viewing
 * Watch first: [Ceptr MIT webinar](http://ceptr.org/2015/09/24/mitkit-ceptr-webinar/) (1 hour)
 * More: [Ceptr: How and Why](https://www.youtube.com/watch?v=Y9ZhswdOm14) (3 hours)
 * Another overview: [#Blocktalk - Arthur Brock](https://www.youtube.com/watch?v=2ppk_mJxckg&app=desktop) (1 hour 15 minutes)
 * See also [MetaCurrency](https://www.youtube.com/playlist?list=PLF35F5FA98C7DBB65) playlist on YouTube
 
-### Advanced reading
+### Further reading
 * [Ceptr Core Dumps](http://ceptr.wagn.org/Our_Core_Dumps), a series of whiteboard photos wherein many of the original concepts of Ceptr were developed/discovered
+* [Ceptr Apocalypse](https://docs.google.com/document/d/1b2sS4eYR5ShVtcVmPdOMUlVIp26fwSqkZBoepzMdzrU/edit), a brief document written in January 2012 to help people make sense of the project
