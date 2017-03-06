@@ -25,4 +25,4 @@ Information for the MetaCurrency Project overall has been listed under the Holog
 
 ### Further reading
 * [Ceptr Core Dumps](http://ceptr.wagn.org/Our_Core_Dumps), a series of whiteboard photos wherein many of the original concepts of Ceptr were developed/discovered
-* [Ceptr Apocalypse](https://docs.google.com/document/d/1b2sS4eYR5ShVtcVmPdOMUlVIp26fwSqkZBoepzMdzrU/edit), a brief document written in January 2012 to help people make sense of the project
+* [Ceptr Apocalypse](https://docs.google.com/document/d/1b2sS4eYR5ShVtcVmPdOMUlVIp26fwSqkZBoepzMdzrU/edit), one of the core dumps, is a brief document written in January 2012 to help people make sense of the project
