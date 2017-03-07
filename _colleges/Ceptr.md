@@ -29,3 +29,8 @@ Information for the MetaCurrency Project overall has been listed under the Holog
     * [Ceptr Apocalypse](https://docs.google.com/document/d/1b2sS4eYR5ShVtcVmPdOMUlVIp26fwSqkZBoepzMdzrU/edit), one of the core dumps, is a brief document written in January 2012 to help people make sense of the project
     * [Ceptr Protocol spreadsheet](https://docs.google.com/spreadsheet/ccc?key=0AhkYjq_pxsGadFRrOGRLOHJ1XzBTZkRDUUJCYndFYnc#gid=0), from the core dumps, is a detailed attempt at working out signals and routing
 * [What makes the Design of the Ceptr Fuel Currency so Cool!](https://docs.google.com/document/d/1zchqaIR1QPOFUVBXd4ryamwyrNVRE0VztC62pOho6Rw/edit?usp=sharing)
+
+### Other directories
+* [MetaCurrency Project Directory](https://www.diigo.com/outliner/akj0wb/MC-website?key=o5scr4dt8q)
+* [Deep Wealth Design Directory](https://www.diigo.com/o/akjcbn/DWD%20workshop) (ask Ferananda for permission)
+* [Ceptr Directory](https://sites.google.com/a/cornell.edu/ceptr/orientation) by Tapan
