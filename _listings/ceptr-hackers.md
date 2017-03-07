@@ -24,10 +24,11 @@ curator: deicidus
 - Semantic tree viewer in html
 
 ### Stuff for coders
-* [Ceptr git repository](https://github.com/zippy/ceptr) on GitHub
+* [Holochain git repository](https://github.com/metacurrency/holochain/)
 * [Ceptr Doxy API documentation](http://zippy.github.io/ceptr/) (generated from code by Doxy)
 * [Ceptr issues tracker](https://github.com/zippy/ceptr/issues) on GitHub
 * [Ceptr Waffle issues tracker](https://waffle.io/zippy/ceptr) (kanban interface to the GitHub issues tracker)
+* [Ceptr git repository](https://github.com/zippy/ceptr) on GitHub (deprecated)
 
 ### Meta
 * [Documentation](https://docs.google.com/spreadsheets/d/1X9MB7JVKZ2_nvaC9jIAQRAdFwyDiJbArLPCz8g4PVQg/edit#gid=0) spreadsheet
