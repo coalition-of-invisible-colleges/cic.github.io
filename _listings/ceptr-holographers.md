@@ -24,7 +24,3 @@ There is an updated [list of people](http://metacurrency.org/team/) on the MetaC
 These protocols are used internally to regulate access to the community and its spaces and files.
 * [Protocols for inclusion](https://docs.google.com/document/d/1bB3HAwm1LPYJV9K0VCilJ_Xjob7rA_8js2usfODH6GE/edit)
 * [Circles of Engagement](https://docs.google.com/spreadsheets/d/1OXTwI6ANCNiq7AhBuFoj7dxLyGOYyEdz5_P2l5QNzmI/edit#gid=0)
-
-### Meta
-* [Metacurrency Org Redesign](https://docs.google.com/spreadsheets/d/1Z03Dqbkq91oFlpsNFAGoIGwehq44jcXY1MgHelu_kjE/edit#gid=0) spreadsheet—the community is currently undergoing a redesign, and groups called "do-ops" are being formed here
-* [Currency Website Assets](https://docs.google.com/spreadsheets/d/1tCIAykiIdiJ3bAOC4TRNfBFrGrVctfzWm5CGzfNC_ac/edit) spreadsheet—contains a list of many other archived or unfinished websites related to the MetaCurrency Project
