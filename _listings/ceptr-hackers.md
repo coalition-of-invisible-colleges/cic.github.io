@@ -6,7 +6,7 @@ curator: deicidus
 ---
 ### Places
 * [Ceptr](http://ceptr.org)
-* [ceptr.slack.org](slack://ceptr.slack.org) on Slack (ask Eric or Arthur, below, for an invite)
+* [ceptr.slack.com](slack://ceptr.slack.com) on Slack (ask Eric or Arthur, below, for an invite)
 * The [Source Tree Commons](http://sourcetreecommons.org/), future site of the ceptr open-source repository
 * [Ceptr Google Drive folder](https://drive.google.com/drive/u/0/folders/0B1TJCMMO_OtyZmNiMzhiYWItOWJjYS00NjM2LWE3MTUtZmYzZTM2ZmMxYzhh)
 * [Old Ceptr Wiki](http://ceptr.wagn.org/)
