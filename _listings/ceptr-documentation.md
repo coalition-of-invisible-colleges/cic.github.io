@@ -9,6 +9,7 @@ curatorplatform: email
 Provide clarity for developers about where Ceptr is going and documentation for how to contribute to building it
 
 ### Documentation
+* [Holochain documentation wiki](https://github.com/metacurrency/holochain/wiki)
 * [Holochain documentation](https://godoc.org/github.com/metacurrency/holochain)
 * [Holochain FAQ](https://github.com/metacurrency/holochain/blob/master/docs/FAQ.md)
 
