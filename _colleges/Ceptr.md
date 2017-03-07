@@ -23,6 +23,7 @@ Information for the MetaCurrency Project overall has been listed under the Holog
 * Another overview: [#Blocktalk - Arthur Brock](https://www.youtube.com/watch?v=2ppk_mJxckg&app=desktop) (1 hour 15 minutes)
 * See also [MetaCurrency](https://www.youtube.com/playlist?list=PLF35F5FA98C7DBB65) playlist on YouTube
 
-### Further reading
+### Detailed reading
 * [Ceptr Core Dumps](http://ceptr.wagn.org/Our_Core_Dumps), a series of whiteboard photos wherein many of the original concepts of Ceptr were developed/discovered
-* [Ceptr Apocalypse](https://docs.google.com/document/d/1b2sS4eYR5ShVtcVmPdOMUlVIp26fwSqkZBoepzMdzrU/edit), one of the core dumps, is a brief document written in January 2012 to help people make sense of the project
+    * [Ceptr Apocalypse](https://docs.google.com/document/d/1b2sS4eYR5ShVtcVmPdOMUlVIp26fwSqkZBoepzMdzrU/edit), one of the core dumps, is a brief document written in January 2012 to help people make sense of the project
+    * [Ceptr Protocol spreadsheet](https://docs.google.com/spreadsheet/ccc?key=0AhkYjq_pxsGadFRrOGRLOHJ1XzBTZkRDUUJCYndFYnc#gid=0), from the core dumps, is a detailed attempt at working out signals and routing
