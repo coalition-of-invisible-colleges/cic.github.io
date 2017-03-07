@@ -16,6 +16,7 @@ Information for the MetaCurrency Project overall has been listed under the Holog
 * [Cryptocurrencies as digital "bearer instruments"](https://medium.com/@artbrock/cryptocurrencies-as-digital-bearer-instruments-fa6ec01ee4fc#.lvygt25fl)
 * [Why centeral banks will issue digital currency](https://medium.com/chain-inc/why-central-banks-will-issue-digital-currency-5fd9c1d3d8a2#.4yvu0cbwb)
 * [MetaCurrency Project Vision & Strategy](http://metacurrency.org/portfolio-item/metacurrency-project-vision-strategy/)
+* [Introducing Setrex](https://www.codeproject.com/articles/894188/introducing-semtrex) whitepaper
 
 ### Introductory viewing
 * Quick intro: [Ceptr Why & How](https://prezi.com/raptqxuputwp/ceptr-tech-overview/) Prezi presentation
