@@ -26,7 +26,7 @@ Information for the MetaCurrency Project overall has been listed under the Holog
 * See also [MetaCurrency](https://www.youtube.com/playlist?list=PLF35F5FA98C7DBB65) playlist on YouTube
 * [Deep Wealth Talk](https://vimeo.com/66000237) by Arthur Brock and Eric Harris-Braun (2013)
 * [Occupy Wall Street: Occupy Money Talk](http://metacurrency.org/portfolio-item/occupy-wall-street-occupy-money-talk/) by 
-Brock
+Brock ([diagram](http://metacurrency.org/portfolio-item/living-systems-model-of-wealth/))
 
 ### Detailed reading
 * [Ceptr Core Dumps](http://ceptr.wagn.org/Our_Core_Dumps), a series of whiteboard photos wherein many of the original concepts of Ceptr were developed/discovered
