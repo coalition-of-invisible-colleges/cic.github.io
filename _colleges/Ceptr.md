@@ -34,3 +34,9 @@ Information for the MetaCurrency Project overall has been listed under the Holog
 * [MetaCurrency Project Directory](https://www.diigo.com/outliner/akj0wb/MC-website?key=o5scr4dt8q)
 * [Deep Wealth Design Directory](https://www.diigo.com/o/akjcbn/DWD%20workshop) (ask Ferananda for permission)
 * [Ceptr Directory](https://sites.google.com/a/cornell.edu/ceptr/orientation) by Tapan
+* [Currency Website Assets](https://docs.google.com/spreadsheets/d/1tCIAykiIdiJ3bAOC4TRNfBFrGrVctfzWm5CGzfNC_ac/edit) spreadsheet—contains a list of many other archived or unfinished websites related to the MetaCurrency Project
+
+### Do-ops
+Do-ops or ["do-operations"](https://www.youtube.com/watch?v=SBgQezOF8kY&index=7&list=PL2t8WTXg8nxNHwndQbud_g5RjTGRSiP73) are agile workgroups formed around particular inputs and outputs.
+
+The **[Metacurrency Org Redesign](https://docs.google.com/spreadsheets/d/1Z03Dqbkq91oFlpsNFAGoIGwehq44jcXY1MgHelu_kjE/edit#gid=0) spreadsheet** contains the most up-to-date list of do-ops. The directory below needs to be brought up-to-date with this file.
