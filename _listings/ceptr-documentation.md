@@ -24,4 +24,4 @@ Provide clarity for developers about where Ceptr is going and documentation for 
 
 ### Places
 * [Documentation Spreadsheet](https://docs.google.com/spreadsheets/d/1X9MB7JVKZ2_nvaC9jIAQRAdFwyDiJbArLPCz8g4PVQg/edit)
-* Standing meetings on Tuesday at 9 AM Pacific and Friday at Noon P acific in [ceptr.org/hangout](http://ceptr.org/hangout)
+* Weekly meetings (contact Eric or Art for information)
