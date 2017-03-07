@@ -14,7 +14,7 @@ Ideally, there would be one curator, per guild, per college.
 Duties of a curator:
 
 * The curator keeps their guild listing up-to-date for their college. This means creating and maintaining an index of that guild's various functions, places, projects, people, services, and external resources, in the context of your college.
-* The curator n is listed at the top of each guild-college directory listing section (Telegram username), so people can contact you. Visitors to the CIC website may easily contact you to ask about the guild or the guild's directory listing on the website.
+* The curator is listed at the top of each guild-college directory listing section (Telegram username), so people can contact you. Visitors to the CIC website may easily contact you to ask about the guild or the guild's directory listing on the website.
 
 ### How this site is hosted
 
@@ -99,4 +99,4 @@ A listing is an index of the functions, places, projects, people, services, and 
 
 ### How to get more help
 
-Ask [@deicidus](http://telegram.me/deicidus) or any of the point people for help editing the website or reaching out to additional colleges.
+Ask [@deicidus](http://telegram.me/deicidus) or any of the curators for help editing the website or reaching out to additional colleges.
