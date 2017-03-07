@@ -23,17 +23,21 @@ Information for the MetaCurrency Project overall has been listed under the Holog
 * More: [Ceptr: How and Why](https://www.youtube.com/watch?v=Y9ZhswdOm14) (3 hours)
 * Another overview: [#Blocktalk - Arthur Brock](https://www.youtube.com/watch?v=2ppk_mJxckg&app=desktop) (1 hour 15 minutes)
 * See also [MetaCurrency](https://www.youtube.com/playlist?list=PLF35F5FA98C7DBB65) playlist on YouTube
+* [Deep Wealth Talk](https://vimeo.com/66000237) by Arthur Brock and Eric Harris-Braun (2013)
+* [Occupy Wall Street: Occupy Money Talk](http://metacurrency.org/portfolio-item/occupy-wall-street-occupy-money-talk/) by 
+Brock
 
 ### Detailed reading
 * [Ceptr Core Dumps](http://ceptr.wagn.org/Our_Core_Dumps), a series of whiteboard photos wherein many of the original concepts of Ceptr were developed/discovered
     * [Ceptr Apocalypse](https://docs.google.com/document/d/1b2sS4eYR5ShVtcVmPdOMUlVIp26fwSqkZBoepzMdzrU/edit), one of the core dumps, is a brief document written in January 2012 to help people make sense of the project
     * [Ceptr Protocol spreadsheet](https://docs.google.com/spreadsheet/ccc?key=0AhkYjq_pxsGadFRrOGRLOHJ1XzBTZkRDUUJCYndFYnc#gid=0), from the core dumps, is a detailed attempt at working out signals and routing
 * [What makes the Design of the Ceptr Fuel Currency so Cool!](https://docs.google.com/document/d/1zchqaIR1QPOFUVBXd4ryamwyrNVRE0VztC62pOho6Rw/edit?usp=sharing)
+* [Source Tree Commons Vision-Mission-Purpose](https://docs.google.com/spreadsheets/d/1tXzW1AudRPByzkRTIjBkSyVvSiyqKa-_OvB8n0ZaAIM/edit?usp=sharing) spreadsheet
 
 ### Other directories
 * [MetaCurrency Project Directory](https://www.diigo.com/outliner/akj0wb/MC-website?key=o5scr4dt8q)
 * [Deep Wealth Design Directory](https://www.diigo.com/o/akjcbn/DWD%20workshop) (ask Ferananda for permission)
-* [Ceptr Directory](https://sites.google.com/a/cornell.edu/ceptr/orientation) by Tapan
+* [Ceptr Directory](https://sites.google.com/a/cornell.edu/ceptr/orientation) by Tapan (most links there are here too)
 * [Currency Website Assets](https://docs.google.com/spreadsheets/d/1tCIAykiIdiJ3bAOC4TRNfBFrGrVctfzWm5CGzfNC_ac/edit) spreadsheet—contains a list of many other archived or unfinished websites related to the MetaCurrency Project
 
 ### Do-ops
