@@ -18,6 +18,7 @@ Information for the MetaCurrency Project overall has been listed under the Holog
 * [MetaCurrency Project Vision & Strategy](http://metacurrency.org/portfolio-item/metacurrency-project-vision-strategy/)
 
 ### Introductory viewing
+* Quick intro: [Ceptr Why & How](https://prezi.com/raptqxuputwp/ceptr-tech-overview/) Prezi presentation
 * Watch first: [Ceptr MIT webinar](http://ceptr.org/2015/09/24/mitkit-ceptr-webinar/) (1 hour)
 * More: [Ceptr: How and Why](https://www.youtube.com/watch?v=Y9ZhswdOm14) (3 hours)
 * Another overview: [#Blocktalk - Arthur Brock](https://www.youtube.com/watch?v=2ppk_mJxckg&app=desktop) (1 hour 15 minutes)
