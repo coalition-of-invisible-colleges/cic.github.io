@@ -29,7 +29,6 @@ Information for the MetaCurrency Project overall has been listed under the Holog
 * [Deep Wealth Talk](https://vimeo.com/66000237) by Arthur Brock and Eric Harris-Braun (2013)
 * [Occupy Wall Street: Occupy Money Talk](http://metacurrency.org/portfolio-item/occupy-wall-street-occupy-money-talk/) by 
 Brock ([diagram](http://metacurrency.org/portfolio-item/living-systems-model-of-wealth/))
-* [Hackathon Welcome + Holochain 101](https://www.youtube.com/watch?v=-RyFJWK4mhI&feature=youtu.be) (March 2017)
 
 ### Detailed reading
 * [Ceptr Core Dumps](http://ceptr.wagn.org/Our_Core_Dumps), a series of whiteboard photos wherein many of the original concepts of Ceptr were developed/discovered
@@ -37,6 +36,10 @@ Brock ([diagram](http://metacurrency.org/portfolio-item/living-systems-model-of-
     * [Ceptr Protocol spreadsheet](https://docs.google.com/spreadsheet/ccc?key=0AhkYjq_pxsGadFRrOGRLOHJ1XzBTZkRDUUJCYndFYnc#gid=0), from the core dumps, is a detailed attempt at working out signals and routing
 * [What makes the Design of the Ceptr Fuel Currency so Cool!](https://docs.google.com/document/d/1zchqaIR1QPOFUVBXd4ryamwyrNVRE0VztC62pOho6Rw/edit?usp=sharing)
 * [Source Tree Commons Vision-Mission-Purpose](https://docs.google.com/spreadsheets/d/1tXzW1AudRPByzkRTIjBkSyVvSiyqKa-_OvB8n0ZaAIM/edit?usp=sharing) spreadsheet
+
+### Further viewing
+* [Ceptr-Noomap meeting](https://vimeo.com/204427475) (February 2017)
+* [Hackathon Welcome + Holochain 101](https://www.youtube.com/watch?v=-RyFJWK4mhI&feature=youtu.be) (March 2017)
 
 ### Other directories
 * [MetaCurrency Project Directory](https://www.diigo.com/outliner/akj0wb/MC-website?key=o5scr4dt8q)
