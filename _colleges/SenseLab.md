@@ -14,4 +14,4 @@ groupword: " project"
 
 SenseLab is currently developing Three Ecologies Institute, a para-academic experimental alternative pedagogy and distributed university. Realized as an economic space within [ECSA](/colleges/ECSA)'s economic spaces ecosystem, it's designed as an engine for economic sustainability for alterantive forms of study.
 
-Homepage: [http://senselab.ca](senselab.ca)
+Homepage: **[senselab.ca](http://senselab.ca)**
