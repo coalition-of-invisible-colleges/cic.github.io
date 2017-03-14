@@ -4,6 +4,8 @@ permalink: /colleges/Ceptr/
 college: Ceptr
 groupword: " Do-op"
 ---
+ {% include ceptr-calendar.html %}
+ 
 **[Hackathon in-progress!](http://ceptr.org/hackathons.html)**
 
 The MetaCurrency Project is developing tools and platforms for open sourcing the next economy.
