@@ -1,7 +1,7 @@
 ---
 college: Ceptr
 group: holohacker
-guild: dev
+guild: hackers
 curator: deicidus
 ---
 **Holohacker** is a blanket term for the emerging synthetic holographic GUI which will allow exploration of the holochain.
