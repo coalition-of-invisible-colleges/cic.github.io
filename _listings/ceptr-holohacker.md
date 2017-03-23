@@ -7,7 +7,7 @@ curator: deicidus
 **Holohacker** is a blanket term for the emerging synthetic holographic GUI which will allow exploration of the holochain.
 
 ### Places
-* http://github.com/christopherreay/category/ is Dayzee/Chris's demo
+* [http://github.com/christopherreay/category/] is Dayzee/Chris's demo
 
 ### People
 * Jay Dayzee
