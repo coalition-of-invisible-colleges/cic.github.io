@@ -4,19 +4,19 @@ permalink: /colleges/ECSA/
 college: ECSA
 groupword: " team"
 ---
-### Introductory viewing
-* [Agoric: How it Works & Economic Logic](https://www.youtube.com/watch?v=G1YOlmXVNZA)
-* [Randy Martin on Derivative Logic](https://vimeo.com/95306125)—Derivative logic is something more than just financial technique, it is a new value form… I see ECSA, and what we are now building, exactly like he says here, as a derivative, a risk generating practice, a derivative practice which arbitrages, speculates and leverages about being able to act, together, on a certain gap or an opening or an opportunity. You will get this immediately. A beautiful articulation of derivative practice and its connection to dance by Randy (who recently just passed away).
-[Financial platforms of the future](https://www.youtube.com/watch?v=BoogfEdALes&list=PLU3jVjtfSF2I75ijoUWq8VRPDf2beoV4N) ([PDF paper]((http://events.robinhoodcoop.org/wp-content/uploads/london_office_itinerary.pdf))—Program of our London Office (August 2015) where the next steps of Robin Hood were pre-launched, tested and developed. Gives a nice overview of the problematic with which we are working at the moment: is the fusion of blockchain technology and finance going to be just an integration of existing financial industry’s business models and political consequences into blockchain – or is it going to be an invention which enables building of new social architecture of finance. (10 min of your time)
-* [Robin Hood – the Documentary Trailer](http://www.robinthemovie.com) by Mette Reizler
-* [Robin Hood on YouTube](https://www.youtube.com/channel/UCmxRW1qsCf8RZaPQ8NDw0Iw)—Brian Massumi, Jaromil, Vinay Gupta, Ian Grigg, Robert Meister, Andrea Fumagalli etc. on Robin Hood and the future of finance
-
 ### Introductory reading
 * [Democratizing the Power of Finance: A Discussion about Robin Hood Asset Management Cooperative with Akseli Virtanen](http://www.futureartbase.org/2013/10/08/democratization-of-finance-a-discussion-about-robin-hood-with-akseli-virtanen/)
 * [Welcome to the Wild Side of Finance—Interview with Akseli Virtanen](http://www.futureartbase.org/2015/10/19/welcome-to-the-wild-side-of-finance-interview-with-akseli-virtanen/)
 * [Robin Hood is a New Concept](http://www.futureartbase.org/2015/05/14/robin-hood-is-a-new-concept/)
 * [Equity, Options, Assemblage – Robin Hood 2.0](http://www.futureartbase.org/wp-content/uploads/2015/04/Robin-Hood.Grey-Paper-April-2015.pdf) [May 2015]—A Robin Hood “grey paper” (spring 2015) which lays out the reasons and aims of Robin Hood 2.0. How do we intend to fuse financial and blockchain technologies. And why? What does it mean to produce more equity, more options and more assemblage for our operators, more efficiently, in more dimensions. (60 min of your time)
 * [The Power at the End of the Economy](https://www.google.com/search?q=power+at+the+end+of+economy brian massumi) by Brian Massumi [book]
+
+### Introductory viewing
+* [Agoric: How it Works & Economic Logic](https://www.youtube.com/watch?v=G1YOlmXVNZA)
+* [Randy Martin on Derivative Logic](https://vimeo.com/95306125)—Derivative logic is something more than just financial technique, it is a new value form… I see ECSA, and what we are now building, exactly like he says here, as a derivative, a risk generating practice, a derivative practice which arbitrages, speculates and leverages about being able to act, together, on a certain gap or an opening or an opportunity. You will get this immediately. A beautiful articulation of derivative practice and its connection to dance by Randy (who recently just passed away).
+[Financial platforms of the future](https://www.youtube.com/watch?v=BoogfEdALes&list=PLU3jVjtfSF2I75ijoUWq8VRPDf2beoV4N) ([PDF paper]((http://events.robinhoodcoop.org/wp-content/uploads/london_office_itinerary.pdf))—Program of our London Office (August 2015) where the next steps of Robin Hood were pre-launched, tested and developed. Gives a nice overview of the problematic with which we are working at the moment: is the fusion of blockchain technology and finance going to be just an integration of existing financial industry’s business models and political consequences into blockchain – or is it going to be an invention which enables building of new social architecture of finance. (10 min of your time)
+* [Robin Hood – the Documentary Trailer](http://www.robinthemovie.com) by Mette Reizler
+* [Robin Hood on YouTube](https://www.youtube.com/channel/UCmxRW1qsCf8RZaPQ8NDw0Iw)—Brian Massumi, Jaromil, Vinay Gupta, Ian Grigg, Robert Meister, Andrea Fumagalli etc. on Robin Hood and the future of finance
 
 ### Robin Hood economics, politics, and aesthetics (collection of links)
 The Activist Hedge Fund by Brett Scott
