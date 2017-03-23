@@ -14,4 +14,4 @@ curator: deicidus
 * Christian Crawford
 * Niko
 * Chris Larkum
-* Anders Aamodt ([http://patreon.com/crucible](related project))
+* Anders Aamodt ([Crucible](http://patreon.com/crucible), related project)
