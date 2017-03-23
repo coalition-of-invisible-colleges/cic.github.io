@@ -82,18 +82,30 @@ Bob Meister on Production Liquidity (attached, this is also in the Derivatives b
 Dick Bryan on HouseHold Union (attached two chapters of a new book manuscript)
 
 ### Is it possible to think (and act on) historical justice through financial derivatives? A summary position of Robert Meister’s new work on “Option of Justice”
+
 a. Starting point: financialized capitalism preserves and increases the cumulative value of past injustice without appearing to keep continuing it.
+
 b. We must ask why these cumulative gains should accumulate so largely to the ongoing beneficiaries of past injustice.
+
 c. How to bring this question into politics (that it can't be done at the moment is one of the biggest problems): The _DEMAND FOR JUSTICE_ can be articulated as an _OPTION ON THE ACCUMULATED WEALTH OF SOCIETY_and not merely as a claim for a more equitable distribution of the income derived from goods and services.
+
 d. To be politically effective we need to understand the forms of hands-on power that could be used collectively to threaten financial dis-accumulation (= asset price collapse) in much the way that the option of a General Strike threatened the dis-accumulation of industrial capital. So, if the Welfare State was the political price exacted for _NOT_ exercising the option of a General Strike, there should also be political price for_ NOT_ exercising the option to bring on a liquidity crisis by collective action aimed to “occupying” (possessing) the forms of collateral that are presently in our control and that financial system literally “counts on” being able to _RE_possess. This includes the collateral for our own debts and also our expected payments which function as collateral for other debts.
+
 e. We can measure now approximately the political price of restoring liquidity: in 2008 the U.S. government preserved the liquidity of global money markets (the Shadow Banking system) by swapping $5-13T of illiquid private debt for U.S. government debt, thereby providing the financial system with a supply of safe collateral.
-f._ FINANCIALLY_, this meant that the general formula for pricing all financial options (Black-Scholes-Merton) had become a technology for manufacturing synthetic public debt (the equivalent of U.S. Treasuries) out of private credit and other forms of capital. So, when these synthetic Treasuries became illiquid, and thus worth less than government obligations, their theoretical equivalence had to be _PERFORMED, AND THUS MADE TRUE,_ by swapping them for real US Treasuries at par in whatever quantities were necessary to stabilize the financial markets.
+
+f. _FINANCIALLY_, this meant that the general formula for pricing all financial options (Black-Scholes-Merton) had become a technology for manufacturing synthetic public debt (the equivalent of U.S. Treasuries) out of private credit and other forms of capital. So, when these synthetic Treasuries became illiquid, and thus worth less than government obligations, their theoretical equivalence had to be _PERFORMED, AND THUS MADE TRUE,_ by swapping them for real US Treasuries at par in whatever quantities were necessary to stabilize the financial markets.
+
 g. _POLITICALLY_, this meant that the capitalist state no longer borrows more in order to spend more, as it did in Keynesian capitalism; in austerity capitalism it, rather, spends less so that it could borrow more cheaply. Here, the option of justice is taken off the table (valued at zero) in order to use the state’s debt-creating power to preserve the liquidity of capital markets and, thus, the value of accumulated wealth.
+
 h. Our response to austerity capitalism should think creatively about “liquidity crisis” as the chokepoint of financialized capitalism—threatening to destroy up to 100% of the market value of accumulated wealth. Wasn’t the restoration of liquidity a_ NATIONALIZATION_ of the means of financial production that redirected (and reprivatized) flows of funds and collateral without then _SOCIALIZING_ them?
+
 i. Could we think of a coordinated response – at the level of policy, creative communities and social movements – that uses the techniques of finance to subvert and reverse its own tendency to widen the cumulative effects of past injustice? The point: to exact a political price for _ROLLING OVER,_ rather than exercising, _THE OPTION OF JUSTICE._
+
 j. That price should be roughly comparable what the bankers on Wall Street exacted in 2008 when they threatened to blow themselves up along with the global financial system if they could not exchange bad
 private sector debt for risk-free government obligations at 100 cents on the dollar. If we consider justice as the _PUBLIC PRICE_ of preserving the liquidity of financial assets then the amounts available to finance historical redress are potentially very high.
+
 k. The point:  we can consider asset values as a multiple of GDP (Piketty’s approach) that multiple, when leveraged, could be 5x, 7x, 13x, perhaps even 75x larger.  There is a basis for choosing any of these multiples and pricing the roll-over of justice accordingly. The point is that the number is very large: _THERE’S PLENTY FOR EVERYONE_ if we treat historical justice as an option.
+
 l. Politics is about keeping the option of justice in play. This has never been more valuable than today.
 Footnote: about Piketty
 
