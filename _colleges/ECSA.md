@@ -117,3 +117,6 @@ Piketty’s attention is on the distinction between asset values (capital market
 5. This requires increasing production and that is why income growth and asset growth need to be linked
 6. Early1970’s on financial theory engineered a way to manufacture hedges, risk free, in whatever supply is necessary for demand, without going through the production process. 
 6. That is why creation of financial products has grown so much faster than the forms of accumulation that require the creation of non-financial products. And that is also why production sphere lost its place as a choking point.
+
+### Internal docs
+* [ECSA Whitepaper Draft](https://docs.google.com/document/d/1kBav3Ndb7O0SvpMehDQ2I98-3J9Q2G9xS6HOmmPxEZ0/edit?usp=sharing)
