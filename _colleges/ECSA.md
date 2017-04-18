@@ -10,6 +10,7 @@ groupword: " team"
 * [Robin Hood is a New Concept](http://www.futureartbase.org/2015/05/14/robin-hood-is-a-new-concept/)
 * [Equity, Options, Assemblage – Robin Hood 2.0](http://www.futureartbase.org/wp-content/uploads/2015/04/Robin-Hood.Grey-Paper-April-2015.pdf) [May 2015]—A Robin Hood “grey paper” (spring 2015) which lays out the reasons and aims of Robin Hood 2.0. How do we intend to fuse financial and blockchain technologies. And why? What does it mean to produce more equity, more options and more assemblage for our operators, more efficiently, in more dimensions. (60 min of your time)
 * [The Power at the End of the Economy](https://www.google.com/search?q=power+at+the+end+of+economy brian massumi) by Brian Massumi [book]
+* [Agoric Whitepaper](https://github.com/Mindonaut/Agoric/wiki/Agoric-Whitepaper)
 
 ### Introductory viewing
 * [Agoric: How it Works & Economic Logic](https://www.youtube.com/watch?v=G1YOlmXVNZA)
