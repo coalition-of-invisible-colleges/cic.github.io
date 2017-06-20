@@ -6,6 +6,7 @@ groupword: " team"
 ---
 ### Quick member links
 * [SPACE wiki](https://gitlab.com/ecsa/space/wikis/constellations)
+* Shared Google Calendar
 
 ### Introductory reading
 * [Democratizing the Power of Finance: A Discussion about Robin Hood Asset Management Cooperative with Akseli Virtanen](http://www.futureartbase.org/2013/10/08/democratization-of-finance-a-discussion-about-robin-hood-with-akseli-virtanen/)
