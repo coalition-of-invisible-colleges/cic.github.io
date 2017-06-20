@@ -5,7 +5,7 @@ college: ECSA
 groupword: " team"
 ---
 ### Quick member links
-* [ECSA Team Wiki(http://teamwiki.ecsa.io/index.php?title=Main_Page)
+* [ECSA Team Wiki](http://teamwiki.ecsa.io/index.php?title=Main_Page)
 * [SPACE wiki](https://gitlab.com/ecsa/space/wikis/constellations)
 * Shared Google Calendar
 
