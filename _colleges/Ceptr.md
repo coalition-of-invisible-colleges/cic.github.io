@@ -50,6 +50,6 @@ Brock ([diagram](http://metacurrency.org/portfolio-item/living-systems-model-of-
 * [Currency Website Assets](https://docs.google.com/spreadsheets/d/1tCIAykiIdiJ3bAOC4TRNfBFrGrVctfzWm5CGzfNC_ac/edit) spreadsheet—contains a list of many other archived or unfinished websites related to the MetaCurrency Project
 
 ### Do-ops
-Do-ops or ["do-operations"](https://www.youtube.com/watch?v=SBgQezOF8kY&index=7&list=PL2t8WTXg8nxNHwndQbud_g5RjTGRSiP73) are agile workgroups formed around particular inputs and outputs.
+[Do-ops](https://github.com/metacurrency/ceptr-org/wiki) or ["do-operations"](https://www.youtube.com/watch?v=SBgQezOF8kY&index=7&list=PL2t8WTXg8nxNHwndQbud_g5RjTGRSiP73) are agile workgroups formed around particular inputs and outputs.
 
-The **[Metacurrency Org Redesign](https://docs.google.com/spreadsheets/d/1Z03Dqbkq91oFlpsNFAGoIGwehq44jcXY1MgHelu_kjE/edit#gid=0) spreadsheet** contains the most up-to-date list of do-ops. The directory below needs to be brought up-to-date with this file.
+The **[Do-ops wiki page](https://github.com/metacurrency/ceptr-org/wiki/Do-ops)** contains the most up-to-date list of do-ops. The directory below needs to be brought up-to-date with this file (an older listing is the [Metacurrency Org Redesign](https://docs.google.com/spreadsheets/d/1Z03Dqbkq91oFlpsNFAGoIGwehq44jcXY1MgHelu_kjE/edit#gid=0) spreadsheet).
